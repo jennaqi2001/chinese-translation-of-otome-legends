@@ -6256,691 +6256,691 @@ translate chinese choices5_b_84af8efc:
 translate chinese choices5_b_cb544598:
 
     # male1 "But, I guess they did regardless."
-    male1 ""
+    male1 "但他们最终还是没放过你。"
 
 # game/script.rpy:2868
 translate chinese choices5_b_1b9346c7:
 
     # male1 "I'm so stupid for believing in them."
-    male1 ""
+    male1 "我真蠢，居然信了他们的鬼话。"
 
 # game/script.rpy:2869
 translate chinese choices5_b_797b9ec7:
 
     # male1 "I just didn't want you to get hurt."
-    male1 ""
+    male1 "我只是不想让你有事。"
 
 # game/script.rpy:2870
 translate chinese choices5_b_b07e8a26_1:
 
     # male1 "..."
-    male1 ""
+    male1 "……"
 
 # game/script.rpy:2872
 translate chinese choices5_b_4c69d8fe:
 
     # male1 "Anything else?"
-    male1 ""
+    male1 "还有别的问题吗？"
 
 # game/script.rpy:2878
 translate chinese choices5_c_d7142e03:
 
     # male1 "A little birdy told me that you got a message from me to meet at the baseball field."
-    male1 ""
+    male1 "有人给我通风报信说你收到了我的短信，约你去排球场见面。"
 
 # game/script.rpy:2879
 translate chinese choices5_c_888861f3:
 
     # male1 "So we decided to go and check out the situation."
-    male1 ""
+    male1 "我们就去看看什么情况。"
 
 # game/script.rpy:2880
 translate chinese choices5_c_e2e64e5a:
 
     # male1 "Luckily we managed to get there in time..."
-    male1 ""
+    male1 "还好我们及时赶到了……"
 
 # game/script.rpy:2881
 translate chinese choices5_c_b07e8a26:
 
     # male1 "..."
-    male1 ""
+    male1 "……"
 
 # game/script.rpy:2883
 translate chinese choices5_c_658271e9:
 
     # male1 "I'm sorry for what happened to your eye though."
-    male1 ""
+    male1 "很抱歉你的眼睛……"
 
 # game/script.rpy:2885
 translate chinese choices5_c_0f6f5203:
 
     # male1 "I guess I was a bit late on that part."
-    male1 ""
+    male1 "我确实还不够及时。"
 
 # game/script.rpy:2887
 translate chinese choices5_c_4c69d8fe:
 
     # male1 "Anything else?"
-    male1 ""
+    male1 "还有别的问题吗？"
 
 # game/script.rpy:2893
 translate chinese choices5_d_745abf07:
 
     # male1 "!!!"
-    male1 ""
+    male1 "！！！"
 
 # game/script.rpy:2895
 translate chinese choices5_d_c37a751c:
 
     # male1 "Ok, don't tell anyone but..."
-    male1 ""
+    male1 "别跟别人说啊……"
 
 # game/script.rpy:2896
 translate chinese choices5_d_8385362a:
 
     # male1 "I like dressing like this but I'm too embarrassed to be seen like this by anybody at school."
-    male1 ""
+    male1 "我本来就喜欢这么穿，但实在不好意思穿去学校。"
 
 # game/script.rpy:2898
 translate chinese choices5_d_6fb0d81e:
 
     # male1 "Kinda makes me feel cool... Haha"
-    male1 ""
+    male1 "感觉、挺酷的……哈哈。"
 
 # game/script.rpy:2900
 translate chinese choices5_d_dbce4f52:
 
     # male1 "... I'm so lame aren't I?"
-    male1 ""
+    male1 "……我真的太怂了。"
 
 # game/script.rpy:2902
 translate chinese choices5_d_4c69d8fe:
 
     # male1 "Anything else?"
-    male1 ""
+    male1 "还有别的问题吗？"
 
 # game/script.rpy:2907
 translate chinese choices5_e_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:2913
 translate chinese choices5_common_08a75e8c:
 
     # male1 "Well, I hope you feel better soon."
-    male1 ""
+    male1 "祝你早日康复。"
 
 # game/script.rpy:2914
 translate chinese choices5_common_7d7a2c19:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:2933
 translate chinese choices5_common_6e941327:
 
     # centered "{size=50}You've earned a heart from Ishida!{/size}"
-    centered ""
+    centered "{size=50}你获得了石田的一颗心！{/size}"
 
 # game/script.rpy:2936
 translate chinese choices5_common_f005315a:
 
     # male1 "I'll guess I'll see you later!"
-    male1 ""
+    male1 "那咱们回头见！"
 
 # game/script.rpy:2942
 translate chinese choices5_common_1e388536:
 
     # "I spent the next two days in the hospital."
-    ""
+    "我在医院住了两天。"
 
 # game/script.rpy:2943
 translate chinese choices5_common_aa0b4ad4:
 
     # "The doctor informed me that the reason I passed out wasn't because of my black eye but because of vitamin deficiency."
-    ""
+    "医生告诉我，我之所以晕倒并不是因为被打伤了眼睛，而是因为缺维生素。"
 
 # game/script.rpy:2944
 translate chinese choices5_common_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:2945
 translate chinese choices5_common_beb8250d:
 
     # "After Ishida went missing I hadn't eaten anything for three days straight."
-    ""
+    "石田失踪后我整整三天没吃饭。"
 
 # game/script.rpy:2946
 translate chinese choices5_common_bd651e88:
 
     # "They said thats what contributed to me suddenly collapsing on the ground."
-    ""
+    "他们说那也家中了我晕倒的可能。"
 
 # game/script.rpy:2947
 translate chinese choices5_common_bccfb673:
 
     # "After all, I don't think being punched in the face alone would be enough to make you suddenly pass out..."
-    ""
+    "毕竟我也不觉得脸上挨一拳就会让人突然失去意识……"
 
 # game/script.rpy:2948
 translate chinese choices5_common_cdefed1e:
 
     # "At least... I think so."
-    ""
+    "呃……至少我是这么想的。"
 
 # game/script.rpy:2949
 translate chinese choices5_common_53f81eda:
 
     # "I'll have so much make-up work to do when I get back home from school today."
-    ""
+    "今天回学校了。我落下了好多课程。"
 
 # game/script.rpy:2950
 translate chinese choices5_common_e2763759:
 
     # "Gotta prepare for the sports festival with Ishida too."
-    ""
+    "还打算抓紧和石田练习体育节的项目呢。"
 
 # game/script.rpy:2951
 translate chinese choices5_common_72f7fc3c:
 
     # "We're gonna be so behind, I already feel overwhelmed."
-    ""
+    "我们和别人比差了很多，想想都头痛。"
 
 # game/script.rpy:2957
 translate chinese choices5_common_23ec6872:
 
     # bff "Haru tan!!!"
-    bff ""
+    bff "千春宝宝！！！"
 
 # game/script.rpy:2963
 translate chinese choices5_common_7207bc4b:
 
     # "As usual, Nao greets me as I arrive to class."
-    ""
+    "直美像往常一样跟我打招呼。"
 
 # game/script.rpy:2964
 translate chinese choices5_common_fecf9aea:
 
     # mc "Are you ever gonna stop with those weird nicknames?"
-    mc ""
+    mc "这种奇怪的外号你还要叫到什么时候呀？"
 
 # game/script.rpy:2966
 translate chinese choices5_common_3527fd1e:
 
     # bff "No!"
-    bff ""
+    bff "永远！"
 
 # game/script.rpy:2968
 translate chinese choices5_common_122b173b:
 
     # bff "Its how I express my affection!"
-    bff ""
+    bff "这可是表达爱意的重要方式！"
 
 # game/script.rpy:2969
 translate chinese choices5_common_27b56b8e:
 
     # mc "Riiiiight."
-    mc ""
+    mc "好好好好好。"
 
 # game/script.rpy:2975
 translate chinese choices5_common_b5ec93a4:
 
     # bff "..."
-    bff ""
+    bff "……"
 
 # game/script.rpy:2977
 translate chinese choices5_common_89a72ecd:
 
     # bff "By the way, what happened to your eye?"
-    bff ""
+    bff "话说你眼睛怎么啦？"
 
 # game/script.rpy:2978
 translate chinese choices5_common_b8de06d3:
 
     # mc "Oh."
-    mc ""
+    mc "哦。"
 
 # game/script.rpy:2979
 translate chinese choices5_common_4d253d65:
 
     # mc "That."
-    mc ""
+    mc "那个啊。"
 
 # game/script.rpy:2980
 translate chinese choices5_common_7c0373fd:
 
     # mc "You just noticed that now?"
-    mc ""
+    mc "你才发现吗？"
 
 # game/script.rpy:2982
 translate chinese choices5_common_00daee17:
 
     # bff "I'm not as perceptive as you, yknow?"
-    bff ""
+    bff "我没有你那么细心哦。"
 
 # game/script.rpy:2983
 translate chinese choices5_common_8745d3cd:
 
     # mc "(Sigh)"
-    mc ""
+    mc "（叹气）"
 
 # game/script.rpy:2984
 translate chinese choices5_common_8b386c6a:
 
     # mc "I got ambushed by a crowd of guys."
-    mc ""
+    mc "我被一群混混袭击了。"
 
 # game/script.rpy:2986
 translate chinese choices5_common_682a4ad1:
 
     # mc "And they punched my face so hard I passed out."
-    mc ""
+    mc "他们一拳打在我脸上，把我打晕了。"
 
 # game/script.rpy:2987
 translate chinese choices5_common_6786fb1d:
 
     # mc "But luckily Ishida was there and..."
-    mc ""
+    mc "还好石田在……"
 
 # game/script.rpy:2988
 translate chinese choices5_common_e81efaa7:
 
     # "Wait..."
-    ""
+    "等等……"
 
 # game/script.rpy:2989
 translate chinese choices5_common_2694f0e3:
 
     # "How did Ishida know where I was?"
-    ""
+    "石田怎么知道我在哪……？"
 
 # game/script.rpy:2991
 translate chinese choices5_common_8ba441b4:
 
     # bff "Oh, I already know that."
-    bff ""
+    bff "哦，这我知道。"
 
 # game/script.rpy:2992
 translate chinese choices5_common_8560e9d1:
 
     # mc "Wait what how?!"
-    mc ""
+    mc "等等你说什么？！"
 
 # game/script.rpy:2994
 translate chinese choices5_common_b5ec93a4_1:
 
     # bff "..."
-    bff ""
+    bff "……"
 
 # game/script.rpy:2996
 translate chinese choices5_common_3ec570e2:
 
     # bff "Ok, I might have snooped through your phone while you took a bathroom break."
-    bff ""
+    bff "诶，其实我呢是趁你去厕所的时候，偷偷看了你手机。"
 
 # game/script.rpy:2998
 translate chinese choices5_common_1f10b651:
 
     # bff "So I decided to snoop through your messages to see how much progress you made with Ishida. Hehehe."
-    bff ""
+    bff "我就想着偷看下你和石田进展怎么样了，嘿嘿。"
 
 # game/script.rpy:2999
 translate chinese choices5_common_175bc953:
 
     # mc "... uhm, stalker much?"
-    mc ""
+    mc "……哼，偷窥是吧？"
 
 # game/script.rpy:3001
 translate chinese choices5_common_fa66e7a8:
 
     # bff "Hey! I saved your life didn't I?"
-    bff ""
+    bff "嘿！我是你救命恩人！"
 
 # game/script.rpy:3002
 translate chinese choices5_common_8c235cff:
 
     # bff "I saw a text that seemed kind of suspicious."
-    bff ""
+    bff "我看到一条可疑的短信。"
 
 # game/script.rpy:3004
 translate chinese choices5_common_5a5a4116:
 
     # bff "So I went to the internet cafe you mentioned because I thought he might've been there."
-    bff ""
+    bff "就去了你说的那家网咖，看看能不能找到他。"
 
 # game/script.rpy:3006
 translate chinese choices5_common_ad11e905:
 
     # bff "And I saw Ishida there!"
-    bff ""
+    bff "石田果然在那。"
 
 # game/script.rpy:3007
 translate chinese choices5_common_aaaab1fa:
 
     # bff "And I asked him why he asked to meet you at the baseball field."
-    bff ""
+    bff "我问他为什么要约你去排球场见面。"
 
 # game/script.rpy:3009
 translate chinese choices5_common_9e518b32:
 
     # bff "Who knows? Maybe it could've been a romantic confession!"
-    bff ""
+    bff "谁知道呢，说不定他就表白啦对吧？"
 
 # game/script.rpy:3011
 translate chinese choices5_common_a7693feb:
 
     # bff "Then he told me that that was impossible because his phone got stolen."
-    bff ""
+    bff "然后他说没可能，他手机被偷了。"
 
 # game/script.rpy:3013
 translate chinese choices5_common_3fec6d66:
 
     # bff "I thought he was being a tsundere at first."
-    bff ""
+    bff "我以为他是在傲娇。"
 
 # game/script.rpy:3015
 translate chinese choices5_common_c5105bc3:
 
     # bff "It turns out that he was telling the truth so we both went to go out to find you."
-    bff ""
+    bff "没想到还是真的，我们就一起去找你。"
 
 # game/script.rpy:3016
 translate chinese choices5_common_3e38f974:
 
     # bff "On our way to the trackfield we saw a crowd of guys show up."
-    bff ""
+    bff "去排球场的路上我们碰到一群混混。"
 
 # game/script.rpy:3017
 translate chinese choices5_common_e22261e3:
 
     # bff "So we called the police because it looked suspicious."
-    bff ""
+    bff "我们见状报了警。"
 
 # game/script.rpy:3019
 translate chinese choices5_common_34ccde68:
 
     # bff "Ishida told me to stay put and make the call while he went to go buy some time."
-    bff ""
+    bff "石田叫我先报警，他去牵制那群人。"
 
 # game/script.rpy:3021
 translate chinese choices5_common_7516cd14:
 
     # bff "By the time the cops arrived, you were already passed out."
-    bff ""
+    bff "警察来的时候你已经昏过去了。"
 
 # game/script.rpy:3023
 translate chinese choices5_common_e80151cc:
 
     # bff "He stayed up all night looking after you at the hospital just to make sure you were okay."
-    bff ""
+    bff "他在医院整夜没睡照顾你。"
 
 # game/script.rpy:3026
 translate chinese choices5_common_a20cefa7_1:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:3027
 translate chinese choices5_common_ccf83239:
 
     # "The break is over."
-    ""
+    "课间结束了。"
 
 # game/script.rpy:3028
 translate chinese choices5_common_82fa0b37:
 
     # "It's time for class to start."
-    ""
+    "该上课了。"
 
 # game/script.rpy:3030
 translate chinese choices5_common_347b1c8f:
 
     # bff "... We can continue this later."
-    bff ""
+    bff "……我们待会儿再说这个。"
 
 # game/script.rpy:3054
 translate chinese choices5_common_69c8d1ca:
 
     # bff "Haru Hime!"
-    bff ""
+    bff "千春姬！"
 
 # game/script.rpy:3055
 translate chinese choices5_common_816cc384:
 
     # "Translator Notes: Hime is a suffix for princess."
-    ""
+    "译者注：姬是公主的称号。（汉化组注：原文是英文，咱们中国朋友理解日语肯定是更容易的。）"
 
 # game/script.rpy:3056
 translate chinese choices5_common_05cb75a5:
 
     # "It is pronounced (hee-meh)."
-    ""
+    "读作 （hee-meh）"
 
 # game/script.rpy:3057
 translate chinese choices5_common_ae3f2783:
 
     # "Like how the é in café is pronounced and the ca part in cafe is pronounced \"kah\""
-    ""
+    "就像é在café里的发音。"
 
 # game/script.rpy:3058
 translate chinese choices5_common_70228dd9:
 
     # "Translator notes brought to you by the creator of this game to prevent you from sounding like an alien."
-    ""
+    "本游戏的译者注其实都是作者写的，目的是避免你在状况外。"
 
 # game/script.rpy:3059
 translate chinese choices5_common_163e3516:
 
     # "Or worse, a weeb that can't pronounce Japanese."
-    ""
+    "也避免你当不会读罗马音的呆呆鹅。"
 
 # game/script.rpy:3060
 translate chinese choices5_common_a20cefa7_2:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:3061
 translate chinese choices5_common_932cdb66:
 
     # "Just like somebody I know..."
-    ""
+    "这感觉似曾相识啊……"
 
 # game/script.rpy:3062
 translate chinese choices5_common_4a5c6f37:
 
     # "Anyways, back to the game."
-    ""
+    "话不多说了，咱们继续游戏。"
 
 # game/script.rpy:3068
 translate chinese choices5_common_cd53f926:
 
     # bff "Wanna have lunch together on the rooftop?"
-    bff ""
+    bff "一起在屋顶吃饭吗？"
 
 # game/script.rpy:3069
 translate chinese choices5_common_13577f53:
 
     # mc "Nah."
-    mc ""
+    mc "emmmm……"
 
 # game/script.rpy:3070
 translate chinese choices5_common_183fd766:
 
     # mc "I'd rather stay in the classroom and eat so I can do my work at the same time."
-    mc ""
+    mc "要不我还是在教室边学边吃吧。"
 
 # game/script.rpy:3071
 translate chinese choices5_common_92c19863:
 
     # mc "Maybe another day when I'm not busy."
-    mc ""
+    mc "等我不忙的时候再说吧。"
 
 # game/script.rpy:3073
 translate chinese choices5_common_2f10a957:
 
     # bff "I see."
-    bff ""
+    bff "好吧。"
 
 # game/script.rpy:3075
 translate chinese choices5_common_c8953792:
 
     # bff "Well if you don't mind, I'm gonna steal Ishida from you for the rest of lunch!"
-    bff ""
+    bff "你要是不介意的话，午休的时候我就要把石田抢走了哦！"
 
 # game/script.rpy:3076
 translate chinese choices5_common_acaefeca:
 
     # mc "Lol, have fun then."
-    mc ""
+    mc "笑死，玩的开心。"
 
 # game/script.rpy:3078
 translate chinese choices5_common_625fdedc:
 
     # bff "ISHIDA!"
-    bff ""
+    bff "石！田！"
 
 # game/script.rpy:3080
 translate chinese choices5_common_aa8cdbd2:
 
     # mc "I wonder what goes through that chaotic head of hers."
-    mc ""
+    mc "有时好奇她乱七八糟的脑袋里都装着什么。"
 
 # game/script.rpy:3081
 translate chinese choices5_common_13db536c:
 
     # mc "Anyways, I should focus on my work."
-    mc ""
+    mc "不管了，继续学习。"
 
 # game/script.rpy:3085
 translate chinese choices5_common_de63907d:
 
     # centered "{size=50}Class{/size}"
-    centered ""
+    centered "{size=50}课上{/size}"
 
 # game/script.rpy:3088
 translate chinese choices5_common_6f3ac214:
 
     # "It's the last class of the day."
-    ""
+    "今天最后一堂课了。"
 
 # game/script.rpy:3089
 translate chinese choices5_common_f1365eef:
 
     # "I stare at the clock in hopes that the time passes by faster."
-    ""
+    "我盯着钟，盼望时间能过快一点。"
 
 # game/script.rpy:3094
 translate chinese choices5_common_1e68db51:
 
     # mc "(Augh, can this clock be any slower?)"
-    mc ""
+    mc "（啊啊啊，这个钟还能再慢一点吗？）"
 
 # game/script.rpy:3095
 translate chinese choices5_common_0fedca90:
 
     # "I stare out the window."
-    ""
+    "我望向窗外。"
 
 # game/script.rpy:3096
 translate chinese choices5_common_33a72dd2:
 
     # mc "(Huh?)"
-    mc ""
+    mc "（啊哈？）"
 
 # game/script.rpy:3097
 translate chinese choices5_common_dada282c:
 
     # mc "(Whats going on outside?)"
-    mc ""
+    mc "（外面在干啥？）"
 
 # game/script.rpy:3098
 translate chinese choices5_common_5e313058:
 
     # "You see a couple of guys fighting outside on the school track field."
-    ""
+    "你看见几个男生在操场打闹。"
 
 # game/script.rpy:3106
 translate chinese choices5_common_5dc83f73:
 
     # "Green-haired guy" "AHHHH!!! GIVE THAT BACK!!"
-    "Green-haired guy" ""
+    "绿发男生" "啊啊啊！！快还给我！！"
 
 # game/script.rpy:3110
 translate chinese choices5_common_75b9f06b:
 
     # "Blond guy" "Ooooh, whats this?"
-    "Blond guy" ""
+    "金发男生" "哦，这是什么好东西？"
 
 # game/script.rpy:3113
 translate chinese choices5_common_c562cb36:
 
     # "Snow-haired guy" "Oh my, I didn't know you were into these types of things Hiroro."
-    "Snow-haired guy" ""
+    "白发男生" "天哪噜，还是头一次听说弘弘喜欢这种东西呢。"
 
 # game/script.rpy:3116
 translate chinese choices5_common_0bf8990b:
 
     # "Blond guy" "What is this? shoujo manga?"
-    "Blond guy" ""
+    "金发男生" "啥啊？少女漫？"
 
 # game/script.rpy:3117
 translate chinese choices5_common_32f97177:
 
     # "Translation notes: shoujo manga is typically manga for girls."
-    ""
+    "译者注：少女漫（shoujo manga）就是专门给少女看的漫画。"
 
 # game/script.rpy:3118
 translate chinese choices5_common_d69007c4:
 
     # "Translation notes: manga is a comic."
-    ""
+    "译者注：manga是漫画的意思。"
 
 # game/script.rpy:3121
 translate chinese choices5_common_64804128:
 
     # "Green-haired guy" "G-Give that back!"
-    "Green-haired guy" ""
+    "绿发男生" "还、还给我！"
 
 # game/script.rpy:3123
 translate chinese choices5_common_39b6a4b1:
 
     # "Green-haired guy" "It's not for me its for my sister!"
-    "Green-haired guy" ""
+    "绿发男生" "又不是我看的！是我妹的！"
 
 # game/script.rpy:3126
 translate chinese choices5_common_430d8a08:
 
     # "Snow-haired guy" "Oh my, oh my~ I didn't know my Hirohiro hiro was a Hirohiro heroine."
-    "Snow-haired guy" ""
+    "白发男生" "天哪天哪~弘弘原来也需要人哄哄呢~"
 
 # game/script.rpy:3128
 translate chinese choices5_common_eae44507:
 
     # "Snow-haired guy" "So you want to get popular with the girls huh?"
-    "Snow-haired guy" ""
+    "白发男生" "你是想打入女生内部是吗？"
 
 # game/script.rpy:3130
 translate chinese choices5_common_444c9a2d:
 
     # "Snow-haired guy" "Honestly, why didn't ya tell me that you needed a mentor? I'm right here!"
-    "Snow-haired guy" ""
+    "白发男生" "你早来问我啊，这不找对人了吗！"
 
 # game/script.rpy:3133
 translate chinese choices5_common_c42b31c4:
 
     # "Green-haired guy" "AHHH! GIVE THAT BACK!!"
-    "Green-haired guy" ""
+    "绿发男生" "啊啊啊！还给我！！"
 
 # game/script.rpy:3134
 translate chinese choices5_common_b0b6b10f:
 
     # "Snow-haired guy" "Ahahahaha!"
-    "Snow-haired guy" ""
+    "白发男生" "啊哈哈哈！"
 
 # game/script.rpy:3137
 translate chinese choices5_common_91fd4a46:
@@ -7018,751 +7018,751 @@ translate chinese choices5_common_a20cefa7_3:
 translate chinese choices5_common_c5bac8c6:
 
     # mc "(I wonder what those guys are always up to?)"
-    mc ""
+    mc "（这些男生成天都在搞什么啊……）"
 
 # game/script.rpy:3163
 translate chinese choices5_common_7a1cb7fd:
 
     # "I stare outside the window until the end of class."
-    ""
+    "我盯着窗外发呆直到下课。"
 
 # game/script.rpy:3170
 translate chinese choices5_common_8cc5bc74:
 
     # "I spot a familiar figure while walking on my way to the shoe lockers"
-    ""
+    "在去鞋柜的路上，我看见了一个熟悉的身影。"
 
 # game/script.rpy:3171
 translate chinese choices5_common_f36397f9:
 
     # "... It's Ishida."
-    ""
+    "……是石田。"
 
 # game/script.rpy:3177
 translate chinese choices5_common_745abf07:
 
     # male1 "!!!"
-    male1 ""
+    male1 "！！！"
 
 # game/script.rpy:3178
 translate chinese choices5_common_8eed2b48:
 
     # mc "Ishida..."
-    mc ""
+    mc "石田……"
 
 # game/script.rpy:3179
 translate chinese choices5_common_74bbec9c:
 
     # mc "Did you lose your glasses again?"
-    mc ""
+    mc "你又弄丢眼镜了吗？"
 
 # game/script.rpy:3181
 translate chinese choices5_common_00754062:
 
     # male1 "Hahahaha...."
-    male1 ""
+    male1 "哈哈哈……"
 
 # game/script.rpy:3182
 translate chinese choices5_common_b07e8a26:
 
     # male1 "..."
-    male1 ""
+    male1 "……"
 
 # game/script.rpy:3184
 translate chinese choices5_common_61d19e65:
 
     # male1 "... no"
-    male1 ""
+    male1 "……不是。"
 
 # game/script.rpy:3185
 translate chinese choices5_common_a6d6c7e6:
 
     # mc "Then...?"
-    mc ""
+    mc "那……？"
 
 # game/script.rpy:3186
 translate chinese choices5_common_d28cc797:
 
     # male1 "I-I-I..."
-    male1 ""
+    male1 "我、我……"
 
 # game/script.rpy:3187
 translate chinese choices5_common_7370effb:
 
     # male1 "I thought that maybe I would look better without glasses on cause..."
-    male1 ""
+    male1 "感觉不戴眼镜会好看一点吧……"
 
 # game/script.rpy:3193
 translate chinese choices5_common_8aa13ba2:
 
     # male1 "I don't know, I thought you said they were stupid..."
-    male1 ""
+    male1 "你之前说的，说我戴眼镜蠢样……"
 
 # game/script.rpy:3194
 translate chinese choices5_common_4c447e55:
 
     # male1 "But, I guess I look stupid either way."
-    male1 ""
+    male1 "诶其实我怎么搞都蠢吧。"
 
 # game/script.rpy:3195
 translate chinese choices5_common_438b2c86:
 
     # mc "... about that"
-    mc ""
+    mc "……啊。"
 
 # game/script.rpy:3196
 translate chinese choices5_common_f50a2fe0:
 
     # mc "I'm sorry, I didn't actually mean anything I said to you last time."
-    mc ""
+    mc "对不起，我不是故意要说那些狠话的。"
 
 # game/script.rpy:3197
 translate chinese choices5_common_9c2f56c9:
 
     # mc "I was just upset and angry, and I said things that I shouldn't have."
-    mc ""
+    mc "我只是难过，又气在头上，说了难听的话。"
 
 # game/script.rpy:3199
 translate chinese choices5_common_b07e8a26_1:
 
     # male1 "..."
-    male1 ""
+    male1 "……"
 
 # game/script.rpy:3200
 translate chinese choices5_common_c6811fc9:
 
     # mc "And you don't have to worry about your glasses. You look just fine either with them on or off."
-    mc ""
+    mc "也别纠结你的眼镜啦。你戴不戴眼镜都好看。"
 
 # game/script.rpy:3202
 translate chinese choices5_common_b07e8a26_2:
 
     # male1 "..."
-    male1 ""
+    male1 "……"
 
 # game/script.rpy:3203
 translate chinese choices5_common_a65c756a:
 
     # male1 "Hahaha, thanks..."
-    male1 ""
+    male1 "哈哈哈，谢谢你……"
 
 # game/script.rpy:3205
 translate chinese choices5_common_42cbdf05:
 
     # "He put his glasses back on after all."
-    ""
+    "他终于戴回了眼镜。"
 
 # game/script.rpy:3207
 translate chinese choices5_common_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:3208
 translate chinese choices5_common_d4e6f787:
 
     # mc "Anyway! See ya at the tracks!"
-    mc ""
+    mc "操场见啦！"
 
 # game/script.rpy:3210
 translate chinese choices5_common_57fda774:
 
     # "I ran away as my face flushed completely red."
-    ""
+    "我赶紧跑开。我的脸肯定通红。"
 
 # game/script.rpy:3219
 translate chinese choices5_common_3ab9a756:
 
     # male1 "Haah, haah, hah."
-    male1 ""
+    male1 "呼……呼……"
 
 # game/script.rpy:3220
 translate chinese choices5_common_9c011f78:
 
     # mc "Exhausted huh?"
-    mc ""
+    mc "上不来气了吗？"
 
 # game/script.rpy:3222
 translate chinese choices5_common_30b93fb8:
 
     # male1 "... Yea."
-    male1 ""
+    male1 "……对。"
 
 # game/script.rpy:3223
 translate chinese choices5_common_2e6f2838:
 
     # mc "We're gonna have to train extra hard because we're a few weeks behind on the training schedule."
-    mc ""
+    mc "我们得加紧训练了，毕竟都落后别人好几周了。"
 
 # game/script.rpy:3224
 translate chinese choices5_common_02112da3:
 
     # mc "To be honest I don't think at this point we're going to win."
-    mc ""
+    mc "实话说感觉我们赢不了了。"
 
 # game/script.rpy:3226
 translate chinese choices5_common_3d22dda4:
 
     # male1 "... What?"
-    male1 ""
+    male1 "……什么？"
 
 # game/script.rpy:3227
 translate chinese choices5_common_a4c9141f:
 
     # mc "Oh, nothing."
-    mc ""
+    mc "哦，没什么。"
 
 # game/script.rpy:3229
 translate chinese choices5_common_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:3230
 translate chinese choices5_common_2d678b94:
 
     # mc "By the way..."
-    mc ""
+    mc "话说……"
 
 # game/script.rpy:3231
 translate chinese choices5_common_2881ad80:
 
     # male1 "Hmm?"
-    male1 ""
+    male1 "嗯哼？"
 
 # game/script.rpy:3232
 translate chinese choices5_common_a8f27544:
 
     # mc "What were you talking about with Nao on the rooftop?"
-    mc ""
+    mc "你和直美在屋顶都聊了些什么？"
 
 # game/script.rpy:3234
 translate chinese choices5_common_745abf07_1:
 
     # male1 "!!!"
-    male1 ""
+    male1 "！！！"
 
 # game/script.rpy:3236
 translate chinese choices5_common_0f7ffba4:
 
     # male1 "Nothing..."
-    male1 ""
+    male1 "没什么……"
 
 # game/script.rpy:3238
 translate chinese choices5_common_7e00e9ab:
 
     # mc "Anyway..."
-    mc ""
+    mc "没事……"
 
 # game/script.rpy:3239
 translate chinese choices5_common_be1051ef:
 
     # "Ishida and I continued practicing everyday after school at the track fields."
-    ""
+    "石田和我就这样每天放学后在操场锻炼。"
 
 # game/script.rpy:3246
 translate chinese choices5_common_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:3247
 translate chinese choices5_common_28818a9e:
 
     # mc "Thats strange."
-    mc ""
+    mc "好奇怪。"
 
 # game/script.rpy:3248
 translate chinese choices5_common_b80f276e:
 
     # mc "Where's Nao?"
-    mc ""
+    mc "直美呢？"
 
 # game/script.rpy:3249
 translate chinese choices5_common_ccdbe8d6:
 
     # mc "!!!" with vpunch
-    mc "" with vpunch
+    mc "！！！" with vpunch
 
 # game/script.rpy:3255
 translate chinese choices5_common_56e56957:
 
     # centered "(It's Ishida's desk...)"
-    centered ""
+    centered "（那是石田的课桌……）"
 
 # game/script.rpy:3256
 translate chinese choices5_common_7d7a2c19_1:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:3259
 translate chinese choices5_common_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:3263
 translate chinese choices5_common_60b0f9c4:
 
     # "Group of Girls" "Oh, look at that. Your desk is dirty."
-    "Group of Girls" ""
+    "一群女生" "嚯，又把桌子搞这么脏啦？"
 
 # game/script.rpy:3264
 translate chinese choices5_common_34fbc139:
 
     # "Green-haired girl" "I wonder who could've done that, looks so awful hahaha."
-    "Green-haired girl" ""
+    "绿发女生" "还有谁能这么恶心呢，丑死了。"
 
 # game/script.rpy:3265
 translate chinese choices5_common_fb00b0b4:
 
     # "Ponytail girl" "Yeah I wonder. (snicker)"
-    "Ponytail girl" ""
+    "扎马尾的女生" "呵呵对啊。（冷笑）"
 
 # game/script.rpy:3266
 translate chinese choices5_common_94924964:
 
     # "Blonde girl" "I thought somebody might've had a funeral but it turns out it was just you."
-    "Blonde girl" ""
+    "金发女生" "我还以为是谁死了出殡呢，原来就是你的课桌呀。"
 
 # game/script.rpy:3267
 translate chinese choices5_common_94f7cf8e:
 
     # "Blonde girl" "Look, somebody already put flowers down for you. Hahaha."
-    "Blonde girl" ""
+    "金发女生" "哟，都有人给你献花了。哈哈哈。"
 
 # game/script.rpy:3274
 translate chinese choices5_common_7b49a2da:
 
     # centered "{w=3}{nw}"
-    centered ""
+    centered "{w=3}{nw}"
 
 # game/script.rpy:3277
 translate chinese choices5_common_64e407a3:
 
     # bff "Haru!"
-    bff ""
+    bff "千春！"
 
 # game/script.rpy:3280
 translate chinese choices5_common_50cc58e2:
 
     # mc "Nao..."
-    mc ""
+    mc "直美……"
 
 # game/script.rpy:3281
 translate chinese choices5_common_04f24613:
 
     # mc "What happened to Ishida?"
-    mc ""
+    mc "石田怎么了？"
 
 # game/script.rpy:3283
 translate chinese choices5_common_b5ec93a4_2:
 
     # bff "..."
-    bff ""
+    bff "……"
 
 # game/script.rpy:3285
 translate chinese choices5_common_58bde1fe:
 
     # "She hands me a news paper and leaves the room."
-    ""
+    "她把报纸递给我，转身出门了。"
 
 # game/script.rpy:3288
 translate chinese choices5_common_e232d0b3:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:3289
 translate chinese choices5_common_30bae168:
 
     # "No, I can't believe it..."
-    ""
+    "不可能，绝对不可能……"
 
 # game/script.rpy:3290
 translate chinese choices5_common_e8062da3:
 
     # "Ishida... he..."
-    ""
+    "石田……他……"
 
 # game/script.rpy:3297
 translate chinese choices5_common_c2608b82:
 
     # "Ishida route end 1/???"
-    ""
+    "石田线结束 1/？？？"
 
 # game/script.rpy:3302
 translate chinese choices5_common_53e50055:
 
     # "Naomi is sus!"
-    ""
+    "直美是卧底！"
 
 # game/script.rpy:3308
 translate chinese yuusuke_route_4f600a50:
 
     # "It's been a month since Ishida passed away."
-    ""
+    "石田已经去世一个月了。"
 
 # game/script.rpy:3309
 translate chinese yuusuke_route_fae2e6f7:
 
     # "I still can't believe it though..."
-    ""
+    "我还是无法接受……"
 
 # game/script.rpy:3310
 translate chinese yuusuke_route_c7a013ad:
 
     # "Just like that he..."
-    ""
+    "他就像……"
 
 # game/script.rpy:3311
 translate chinese yuusuke_route_38ae92d3:
 
     # "And so easily too."
-    ""
+    "这么轻易地……"
 
 # game/script.rpy:3312
 translate chinese yuusuke_route_aabce6f6:
 
     # "They said that he jumped in front of the metrorail."
-    ""
+    "传言说他从地铁站台跳了下去。"
 
 # game/script.rpy:3313
 translate chinese yuusuke_route_58f270b0:
 
     # "It's been all over the news lately."
-    ""
+    "新闻都在报道。"
 
 # game/script.rpy:3314
 translate chinese yuusuke_route_d9d47abe:
 
     # "Highschool student jumps in front of train on a Monday morning."
-    ""
+    "高中生于周一上午跳轨自杀。"
 
 # game/script.rpy:3315
 translate chinese yuusuke_route_63d2fe9c:
 
     # "The thought of it has been haunting me every night for the past few weeks."
-    ""
+    "这几周来，这件事还使我每晚不得安眠。"
 
 # game/script.rpy:3316
 translate chinese yuusuke_route_fd22a381:
 
     # "I can't help but think to myself..."
-    ""
+    "总忍不住想……"
 
 # game/script.rpy:3317
 translate chinese yuusuke_route_089e8901:
 
     # "Was there something that I could have done?"
-    ""
+    "万一我能做什么呢？"
 
 # game/script.rpy:3318
 translate chinese yuusuke_route_7cfbd9b9:
 
     # "Where did it all go wrong?"
-    ""
+    "到底是哪里出错了？"
 
 # game/script.rpy:3319
 translate chinese yuusuke_route_288853ea:
 
     # "Why didn't he tell me? Why did he just disappear like that?"
-    ""
+    "他为什么不跟我说？为什么就这样凭空消失？"
 
 # game/script.rpy:3320
 translate chinese yuusuke_route_baabdd90:
 
     # "Mom" "Chiharu!"
-    "Mom" ""
+    "妈妈" "千春！"
 
 # game/script.rpy:3322
 translate chinese yuusuke_route_e232d0b3:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:3323
 translate chinese yuusuke_route_47ae7418:
 
     # mc "Oh, thats right! I gotta get ready for school!"
-    mc ""
+    mc "哦对了！我得准备上学了。"
 
 # game/script.rpy:3324
 translate chinese yuusuke_route_ed55ab1a:
 
     # mc "Now where did I put my phone?"
-    mc ""
+    mc "我手机放哪里了？"
 
 # game/script.rpy:3332
 translate chinese yuusuke_route_ccdbe8d6:
 
     # mc "!!!" with vpunch
-    mc "" with vpunch
+    mc "！！！" with vpunch
 
 # game/script.rpy:3333
 translate chinese yuusuke_route_e64438f5:
 
     # mc "(It's the blond dude!)"
-    mc ""
+    mc "（是那个金发哥！）"
 
 # game/script.rpy:3334
 translate chinese yuusuke_route_95c7633a:
 
     # mc "Are you okay?"
-    mc ""
+    mc "你没事吧？"
 
 # game/script.rpy:3335
 translate chinese yuusuke_route_ccdbe8d6_1:
 
     # mc "!!!" with vpunch
-    mc "" with vpunch
+    mc "！！！" with vpunch
 
 # game/script.rpy:3337
 translate chinese yuusuke_route_dd06942e:
 
     # mc "You're bleeding!"
-    mc ""
+    mc "你怎么流血了！"
 
 # game/script.rpy:3339
 translate chinese yuusuke_route_710499c4:
 
     # "Blondie" "Don't worry about it."
-    "Blondie" ""
+    "金毛" "别担心。"
 
 # game/script.rpy:3340
 translate chinese yuusuke_route_4e87996c:
 
     # mc "You go to my school right?"
-    mc ""
+    mc "我们是同一个学校的吧？"
 
 # game/script.rpy:3341
 translate chinese yuusuke_route_f9de0d9b:
 
     # mc "Cmon, you're gonna be late!"
-    mc ""
+    mc "快点，你要迟到了！"
 
 # game/script.rpy:3342
 translate chinese yuusuke_route_b41ad9ee:
 
     # mc "Lets get you to the clinic."
-    mc ""
+    mc "咱们这就去校医室。"
 
 # game/script.rpy:3349
 translate chinese yuusuke_route_4e85cb4d:
 
     # mc "Hello?"
-    mc ""
+    mc "有人吗？"
 
 # game/script.rpy:3350
 translate chinese yuusuke_route_87f8fd30:
 
     # mc "Is there anybody here?"
-    mc ""
+    mc "这里有人吗？"
 
 # game/script.rpy:3351
 translate chinese yuusuke_route_c69838c7:
 
     # mc "Nobody?"
-    mc ""
+    mc "没人？"
 
 # game/script.rpy:3352
 translate chinese yuusuke_route_8745d3cd:
 
     # mc "(Sigh)"
-    mc ""
+    mc "（叹气）"
 
 # game/script.rpy:3353
 translate chinese yuusuke_route_0149ebdf:
 
     # mc "Okay, where are the bandages?"
-    mc ""
+    mc "行吧，绷带在哪？"
 
 # game/script.rpy:3359
 translate chinese yuusuke_route_c78f0702:
 
     # "Blondie" "Hey!"
-    "Blondie" ""
+    "金毛" "嘿！"
 
 # game/script.rpy:3361
 translate chinese yuusuke_route_402bedb0:
 
     # "Blondie" "I told you its fine, its not a big deal!"
-    "Blondie" ""
+    "金毛" "我都说没事了，没什么大不了的！"
 
 # game/script.rpy:3362
 translate chinese yuusuke_route_d8637766:
 
     # mc "Geez, why do you have to be so stubborn?"
-    mc ""
+    mc "噫，你怎么就这么倔呢？"
 
 # game/script.rpy:3363
 translate chinese yuusuke_route_54b65a99:
 
     # mc "You might get an infection if you leave wounds open without disinfecting them!"
-    mc ""
+    mc "不处理伤口会感染的！"
 
 # game/script.rpy:3365
 translate chinese yuusuke_route_32429430:
 
     # "Blondie" "..."
-    "Blondie" ""
+    "金毛" "……"
 
 # game/script.rpy:3366
 translate chinese yuusuke_route_7d7a2c19:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:3385
 translate chinese yuusuke_route_da02890b:
 
     # centered "{size=50}You've earned a heart!{/size}"
-    centered ""
+    centered "{size=50}你获得了一颗心！{/size}"
 
 # game/script.rpy:3388
 translate chinese yuusuke_route_62bcd5df:
 
     # "Blondie" "I guess..."
-    "Blondie" ""
+    "金毛" "有道理……"
 
 # game/script.rpy:3391
 translate chinese yuusuke_route_3cf0128d:
 
     # "Some Guy" "YUUUUUUUUUSSSSSSSSSUUUUUUKEEEEEE!!!"
-    "Some Guy" ""
+    "某男生" "祐！！介！！"
 
 # game/script.rpy:3392
 translate chinese yuusuke_route_4e338602:
 
     # "Some Guy" "YUU-YUU-YUU-YUU-YUUUUUSUKEE!"
-    "Some Guy" ""
+    "某男生" "又右佑——祐介！"
 
 # game/script.rpy:3395
 translate chinese yuusuke_route_c7fce663:
 
     # male2 "Do you have to scream my name like that every single time?"
-    male2 ""
+    male2 "你一定要尖叫着打招呼吗？"
 
 # game/script.rpy:3410
 translate chinese yuusuke_route_db1dd985:
 
     # male2 "You sound like a maniac."
-    male2 ""
+    male2 "跟精神病院里跑出来的一样。"
 
 # game/script.rpy:3413
 translate chinese yuusuke_route_c4f400ac:
 
     # "Some Guy" "Do I need a reason to scream out my best friend's name?"
-    "Some Guy" ""
+    "某男生" "我喊好兄弟还需要理由吗？"
 
 # game/script.rpy:3415
 translate chinese yuusuke_route_3acb431d:
 
     # "Some Guy" "We're practically brothers at this point don't you think?"
-    "Some Guy" ""
+    "某男生" "我们是异父异母的亲兄弟呢。"
 
 # game/script.rpy:3417
 translate chinese yuusuke_route_4644e08b:
 
     # "Some Guy" "Besides, its fun to say it like that."
-    "Some Guy" ""
+    "某男生" "再说了这样喊很好玩耶。"
 
 # game/script.rpy:3420
 translate chinese yuusuke_route_470673d9:
 
     # male2 "God, you're so cringe."
-    male2 ""
+    male2 "不是，你这有点变态了。"
 
 # game/script.rpy:3423
 translate chinese yuusuke_route_43b080c6:
 
     # "Some Guy" "And who is this?"
-    "Some Guy" ""
+    "某男生" "这位又是……"
 
 # game/script.rpy:3425
 translate chinese yuusuke_route_90e64b0e:
 
     # "Some Guy" "Is it one of your lady friends?"
-    "Some Guy" ""
+    "某男生" "你万千红颜知己其中之一吗？"
 
 # game/script.rpy:3428
 translate chinese yuusuke_route_6ca9aa7b:
 
     # male2 "!!!"
-    male2 ""
+    male2 "！！！"
 
 # game/script.rpy:3430
 translate chinese yuusuke_route_d6cb3694:
 
     # male2 "You need to stop with that."
-    male2 ""
+    male2 "你给我正常点。"
 
 # game/script.rpy:3431
 translate chinese yuusuke_route_a20cefa7:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:3432
 translate chinese yuusuke_route_c6d27bdd:
 
     # "I have a feeling that these two are close friends."
-    ""
+    "他俩看起来关系很好。"
 
 # game/script.rpy:3433
 translate chinese yuusuke_route_7235a97b:
 
     # "These two remind me of whenever I'm with Naomi."
-    ""
+    "就像我和直美一样。"
 
 # game/script.rpy:3434
 translate chinese yuusuke_route_d5da959f:
 
     # "I can't help but chuckle to myself."
-    ""
+    "我忍不住偷笑。"
 
 # game/script.rpy:3437
 translate chinese yuusuke_route_c3dac792:
 
     # "Some Guy" "Anyway, what are you two hooligans doing in the clinic?"
-    "Some Guy" ""
+    "某男生" "你们俩来医务室凑什么热闹啊？"
 
 # game/script.rpy:3440
 translate chinese yuusuke_route_b388196f:
 
     # male2 "Oh that?"
-    male2 ""
+    male2 "哦？"
 
 # game/script.rpy:3441
 translate chinese yuusuke_route_b0dbe4bf:
 
     # male2 "I was walking by and..."
-    male2 ""
+    male2 "就上学路上……"
 
 # game/script.rpy:3442
 translate chinese yuusuke_route_e232d0b3_1:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:3443
 translate chinese yuusuke_route_699878f6:
 
     # mc "Hey!"
-    mc ""
+    mc "嘿！"
 
 # game/script.rpy:3446
 translate chinese yuusuke_route_b3ac159a:
 
     # "Some Guy" "!"
-    "Some Guy" ""
+    "某男生" "！"
 
 # game/script.rpy:3448
 translate chinese yuusuke_route_94e9dd36:
 
     # "Some Guy" "Yes?"
-    "Some Guy" ""
+    "某男生" "什么事？"
 
 # game/script.rpy:3449
 translate chinese yuusuke_route_e9e9bd1b:
