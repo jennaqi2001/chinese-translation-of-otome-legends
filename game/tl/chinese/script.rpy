@@ -22474,7 +22474,7 @@ translate chinese hiro_route_ee2e62c9:
 translate chinese hiro_route_8f92bf68:
 
     # mc "Don't you think that this entire thing is ridiculous though?"
-    mc "你是不觉得你搞的这些事很荒谬吗"
+    mc "你是不觉得你搞的这些事很荒谬吗？"
 
 # game/script.rpy:8683
 translate chinese hiro_route_b3254372:
@@ -22492,7 +22492,7 @@ translate chinese hiro_route_82ec00db:
 translate chinese hiro_route_f4d73635:
 
     # mc "I just want to live a normal life!"
-    mc "我只想正常地，活着！"
+    mc "我只想正常地、活着！"
 
 # game/script.rpy:8686
 translate chinese hiro_route_23919b61:
@@ -22660,7 +22660,7 @@ translate chinese hiro_route_e80de15f:
 translate chinese hiro_route_9600d49f:
 
     # bff "On the school rooftop..."
-    bff "在学校屋顶上……"
+    bff "在学校天台上……"
 
 # game/script.rpy:8733
 translate chinese hiro_route_dfc5b75c:
@@ -24562,7 +24562,7 @@ translate chinese bsbgame1_a06b6efa:
 translate chinese bsbgame1_1c167b3b:
 
     # senpai4 "My name is Handsamu Macho, but my friends call me Ikemen!"
-    senpai4 "我叫Handsamu Macho，但朋友都叫我帅哥学长！"
+    senpai4 "我叫Handsamu Macho，但朋友都叫我英俊学长！"
 
 # game/script.rpy:9293
 translate chinese bsbgame1_09a0f001:
@@ -25384,7 +25384,7 @@ translate chinese choices_mafura_69a9aa75:
 translate chinese choices_mafura_754f9b20:
 
     # senpai1 "I'm just here because I owe Ikemen a favor for helping me lift some equipment for the drama club."
-    senpai1 "我来是因为欠了帅哥哥人情。他在戏剧社帮我提了重物。"
+    senpai1 "我来是因为欠了英俊哥人情。他在戏剧社帮我提了重物。"
 
 # game/script.rpy:9592
 translate chinese choices_mafura_67cabc38:
@@ -25744,7 +25744,7 @@ translate chinese choices_kinpatsu_f0c892b8:
 translate chinese choices_kinpatsu_c28bdc35:
 
     # senpai3 "Yea, I think Ikemen helped me carry them in here."
-    senpai3 "搞到了，帅哥帮我搬过来的。"
+    senpai3 "搞到了，英俊帮我搬过来的。"
 
 # game/script.rpy:9687
 translate chinese choices_kinpatsu_6b77301f:
@@ -25810,7 +25810,7 @@ translate chinese choices_kinpatsu_7e12f3d9:
 translate chinese choices_kinpatsu_712a0c2c:
 
     # senpai1 "Well, you can tell Moteko chan to leave now because you \"lifted\" them in here already..."
-    senpai1 "那你可以请素子酱先离开了，毕竟你刚刚才把所谓的车/“举起来/”。"
+    senpai1 "那你可以请素子酱先离开了，毕竟你刚刚才把所谓的车/“举起来/”了。"
 
 # game/script.rpy:9712
 translate chinese choices_kinpatsu_de21493f:
@@ -25846,7 +25846,7 @@ translate chinese choices_kinpatsu_ec0485dd:
 translate chinese choices_ikemen_b178d2b0:
 
     # "You arrive at the ice cream store with Ikemen Senpai."
-    "你和帅哥学长到了冰激凌店。"
+    "你和英俊学长到了冰激凌店。"
 
 # game/script.rpy:9730
 translate chinese choices_ikemen_e8cd6f1b:
@@ -27274,7 +27274,7 @@ translate chinese afterbsb_c6e7ee27:
 translate chinese afterbsb_4fc57737:
 
     # male3 "Uhm. . ."
-    male3 "嗯哼？"
+    male3 "呃……"
 
 # game/script.rpy:10136
 translate chinese afterbsb_b1d39d4f:
@@ -27316,7 +27316,7 @@ translate chinese afterbsb_1a65b7b6:
 translate chinese afterbsb_ba28b3d3:
 
     # male3 "But I gotta do what I gotta do."
-    male3 "但我该做的都得做。"
+    male3 "但我该做的总得做。"
 
 # game/script.rpy:10144
 translate chinese afterbsb_88e01876:
@@ -27364,7 +27364,7 @@ translate chinese afterbsb_b1344077:
 translate chinese afterbsb_71cf6a9a:
 
     # male3 "Don't rush my decision making process!"
-    male3 "别催我决定了好吗！"
+    male3 "别催我了好吗！"
 
 # game/script.rpy:10154
 translate chinese afterbsb_c1c8d565:
@@ -27496,7 +27496,7 @@ translate chinese afterbsb_6651ab87:
 translate chinese trivia1_7e7b85fd:
 
     # centered "Type the letters that pop up on the screen before the timer runs out."
-    centered "在计时结束前，打出屏幕上出现的字母。"
+    centered "在计时结束前，打出屏幕上出现的字母。（注意切换英文键盘！）"
 
 # game/script.rpy:10190
 translate chinese trivia1_2f5709bd:
@@ -27700,3571 +27700,3571 @@ translate chinese trivia_end1_2208d041:
 translate chinese trivia_end1_80ad7afa:
 
     # male4 "Hey!!" with vpunch
-    male4 "" with vpunch
+    male4 "嗨！！" with vpunch
 
 # game/script.rpy:10319
 translate chinese trivia_end1_cc9a5909:
 
     # "!!!"
-    ""
+    "！！！"
 
 # game/script.rpy:10320
 translate chinese trivia_end1_eab20d2a:
 
     # "Kaoru?!"
-    ""
+    "薰？！"
 
 # game/script.rpy:10321
 translate chinese trivia_end1_37e80827:
 
     # "What does he want?"
-    ""
+    "他想干什么？"
 
 # game/script.rpy:10324
 translate chinese trivia_end1_a20cefa7_2:
 
     # "..."
-    ""
+    "……"
 
 # game/script.rpy:10325
 translate chinese trivia_end1_a178319b:
 
     # "What does he want now?"
-    ""
+    "他现在来干啥？"
 
 # game/script.rpy:10326
 translate chinese trivia_end1_4e49681d:
 
     # male4 "Haru."
-    male4 ""
+    male4 "春春。"
 
 # game/script.rpy:10327
 translate chinese trivia_end1_73f465cd:
 
     # male4 "Can I have a moment to speak with you?"
-    male4 ""
+    male4 "我能跟你聊两句吗？"
 
 # game/script.rpy:10328
 translate chinese trivia_end1_4a5e5694:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:10329
 translate chinese trivia_end1_d425daa3:
 
     # mc "Sure?"
-    mc ""
+    mc "好啊？"
 
 # game/script.rpy:10331
 translate chinese trivia_end1_d5e39c99:
 
     # male4 "Okay!"
-    male4 ""
+    male4 "好！"
 
 # game/script.rpy:10334
 translate chinese trivia_end1_9d405cd2:
 
     # male4 "{size=16}Haru!!!{/size}"
-    male4 ""
+    male4 "{size=16}千春！{/size}"
 
 # game/script.rpy:10336
 translate chinese trivia_end1_9ee16a86:
 
     # male4 "{size=16}Whatever you saw me and Naomi doing... please act like you didn't see anything.{/size}"
-    male4 ""
+    male4 "{size=16}不管你看到我和直美怎么……全都当没看见。{/size}"
 
 # game/script.rpy:10337
 translate chinese trivia_end1_085722e2:
 
     # mc "What?!"
-    mc ""
+    mc "什么？！"
 
 # game/script.rpy:10340
 translate chinese trivia_end1_ce94821a:
 
     # male4 "YOU SAW NOTHING!"
-    male4 ""
+    male4 "你什么都没看见！"
 
 # game/script.rpy:10341
 translate chinese trivia_end1_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10342
 translate chinese trivia_end1_5fae68ed:
 
     # mc "O-O-Oookay?"
-    mc ""
+    mc "……好吧？"
 
 # game/script.rpy:10344
 translate chinese trivia_end1_4dd9efbd:
 
     # male4 "Hahahaha, good then."
-    male4 ""
+    male4 "哈哈哈，那就好。"
 
 # game/script.rpy:10346
 translate chinese trivia_end1_21b37a91:
 
     # male4 "Nothing happened. Alright?"
-    male4 ""
+    male4 "什么都没发生对吧？"
 
 # game/script.rpy:10347
 translate chinese trivia_end1_68eba9cc:
 
     # male3 "What happened?"
-    male3 ""
+    male3 "你说发生的什么？"
 
 # game/script.rpy:10350
 translate chinese trivia_end1_a11a90b2:
 
     # male3 "What are you two trouble makers doing in the hallways?"
-    male3 ""
+    male3 "你们两个又在楼道搞什么破坏？"
 
 # game/script.rpy:10351
 translate chinese trivia_end1_b9565772:
 
     # male3 "It's almost time for class to start."
-    male3 ""
+    male3 "都要上课了。"
 
 # game/script.rpy:10354
 translate chinese trivia_end1_29e56507:
 
     # male4 "HIRO!!!!???"
-    male4 ""
+    male4 "弘！？"
 
 # game/script.rpy:10355
 translate chinese trivia_end1_772c6763:
 
     # male4 "SINCE WHEN DID YOU GET HERE?!"
-    male4 ""
+    male4 "你、你啥时候来的？！"
 
 # game/script.rpy:10356
 translate chinese trivia_end1_1a00e8dc:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:10358
 translate chinese trivia_end1_4cd52f69:
 
     # male4 "NOTHING!"
-    male4 ""
+    male4 "我什么都没说！"
 
 # game/script.rpy:10359
 translate chinese trivia_end1_8e11172b:
 
     # male4 "w-we-we were talking about..."
-    male4 ""
+    male4 "我们只是在……"
 
 # game/script.rpy:10360
 translate chinese trivia_end1_4cd52f69_1:
 
     # male4 "NOTHING!"
-    male4 ""
+    male4 "什么都没说！"
 
 # game/script.rpy:10363
 translate chinese trivia_end1_756d5973:
 
     # male3 "Nothing huh?"
-    male3 ""
+    male3 "没说是吧？"
 
 # game/script.rpy:10364
 translate chinese trivia_end1_04b26443:
 
     # male3 "That sounds really suspicious..."
-    male3 ""
+    male3 "你光是杵在这就很让人怀疑了。"
 
 # game/script.rpy:10367
 translate chinese trivia_end1_04a7ec35:
 
     # male4 "Anyway! It's almost time for class! We can talk later!"
-    male4 ""
+    male4 "不说了，要上课了，下课再聊！"
 
 # game/script.rpy:10369
 translate chinese trivia_end1_7dbd72aa:
 
     # "Kaoru disappeared into the hallway after waving goodbye."
-    ""
+    "薰挥手道别后消失在楼道尽头。"
 
 # game/script.rpy:10371
 translate chinese trivia_end1_6aa80599:
 
     # male3 "Don't mind Kaoru..."
-    male3 ""
+    male3 "别理薰……"
 
 # game/script.rpy:10373
 translate chinese trivia_end1_fa81a94a:
 
     # male3 "Sometimes he's weird but he's actually a pretty cool guy sometimes."
-    male3 ""
+    male3 "他虽然时不时像个奇葩，但其实他这人能处。"
 
 # game/script.rpy:10375
 translate chinese trivia_end1_c17b45ab:
 
     # male3 "If only he stopped annoying me almost EVERY SINGLE DAY!"
-    male3 ""
+    male3 "只要他别再每天都烦我！"
 
 # game/script.rpy:10377
 translate chinese trivia_end1_0a424695:
 
     # male3 "Anyways, I should get going too. Class is about to start."
-    male3 ""
+    male3 "……我得走了，该上课了。"
 
 # game/script.rpy:10379
 translate chinese trivia_end1_47200800:
 
     # "Hiro slips away."
-    ""
+    "弘转身走了。"
 
 # game/script.rpy:10381
 translate chinese trivia_end1_1243a22f:
 
     # "The bell rings."
-    ""
+    "铃响了。"
 
 # game/script.rpy:10382
 translate chinese trivia_end1_7cd91d54:
 
     # "Its time for class to start."
-    ""
+    "上课时间到。"
 
 # game/script.rpy:10390
 translate chinese trivia_end1_0a1242d5:
 
     # "It's lunch time."
-    ""
+    "该吃午饭了。"
 
 # game/script.rpy:10391
 translate chinese trivia_end1_f3ca6d58:
 
     # "Naomi isn't here today."
-    ""
+    "直美今天不在。"
 
 # game/script.rpy:10394
 translate chinese choices11_4e54fcbb:
 
     # "Where should I go?"
-    ""
+    "我要去哪里呢？"
 
 # game/script.rpy:10402
 translate chinese choices11_common_27f2fb57:
 
     # "Maybe I should ask if Kaoru knows anything about Naomi's whereabouts."
-    ""
+    "或许我该问问薰，看他是否知道直美最近的动向。"
 
 # game/script.rpy:10403
 translate chinese choices11_common_d99bf0b6:
 
     # "I can catch up with Hiro after school."
-    ""
+    "放学后再去见弘。"
 
 # game/script.rpy:10410
 translate chinese choices11_common_4a5e5694:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:10411
 translate chinese choices11_common_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10412
 translate chinese choices11_common_4e85cb4d:
 
     # mc "Hello?"
-    mc ""
+    mc "有人吗？"
 
 # game/script.rpy:10413
 translate chinese choices11_common_d7c27aac:
 
     # mc "Is anybody here?"
-    mc ""
+    mc "这里有人吗？"
 
 # game/script.rpy:10414
 translate chinese choices11_common_f024cd09:
 
     # male4 "Boo."
-    male4 ""
+    male4 "哗。"
 
 # game/script.rpy:10415
 translate chinese choices11_common_ccdbe8d6:
 
     # mc "!!!" with vpunch
-    mc "" with vpunch
+    mc "！！！" with vpunch
 
 # game/script.rpy:10418
 translate chinese choices11_common_8e9b5835:
 
     # male4 "Did I scare ya?"
-    male4 ""
+    male4 "吓到你了吗？"
 
 # game/script.rpy:10419
 translate chinese choices11_common_078b6d22:
 
     # mc "Oh, hi Kaoru."
-    mc ""
+    mc "嗨，薰。"
 
 # game/script.rpy:10420
 translate chinese choices11_common_12ddc269:
 
     # male4 "Did you need something from me?"
-    male4 ""
+    male4 "你找我有什么事吗？"
 
 # game/script.rpy:10425
 translate chinese choices11_common_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10428
 translate chinese choices12_8d5fe7a2:
 
     # mc "Actually..."
-    mc ""
+    mc "其实……"
 
 # game/script.rpy:10435
 translate chinese choices12_ed861319:
 
     # mc "actually nevermind."
-    mc ""
+    mc "其实没什么。"
 
 # game/script.rpy:10439
 translate chinese choices12_a_8bf3f421:
 
     # mc "I wanted to ask if you've seen Naomi recently."
-    mc ""
+    mc "我是想问你最近看到直美了没有。"
 
 # game/script.rpy:10440
 translate chinese choices12_a_9885d5ac:
 
     # mc "I haven't seen her around lately."
-    mc ""
+    mc "我有一阵没见她了。"
 
 # game/script.rpy:10442
 translate chinese choices12_a_599d3f2b:
 
     # male4 "Naomi..."
-    male4 ""
+    male4 "直美啊……"
 
 # game/script.rpy:10443
 translate chinese choices12_a_5c62f988:
 
     # male4 "I don't think I've seen her around either."
-    male4 ""
+    male4 "我好像也没看见她。"
 
 # game/script.rpy:10444
 translate chinese choices12_a_64a0e87e:
 
     # male4 "I've actually been looking for her myself but..."
-    male4 ""
+    male4 "事实上我也在找她，然而……"
 
 # game/script.rpy:10446
 translate chinese choices12_a_323647f4:
 
     # male4 "so far I've seen no sign of her."
-    male4 ""
+    male4 "我也没找见。"
 
 # game/script.rpy:10451
 translate chinese choices12_b_42f2ab89:
 
     # mc "I have a question I've been meaning to ask lately..."
-    mc ""
+    mc "这几天有个问题一直想问你……"
 
 # game/script.rpy:10452
 translate chinese choices12_b_089615c3:
 
     # mc "How long have you and Hiro been friends?"
-    mc ""
+    mc "你和弘当了多久朋友了？"
 
 # game/script.rpy:10454
 translate chinese choices12_b_ef1219c3:
 
     # male4 "Me and Hiro?"
-    male4 ""
+    male4 "我和弘吗？"
 
 # game/script.rpy:10455
 translate chinese choices12_b_92060805:
 
     # male4 "We've actually been friends for quite a while..."
-    male4 ""
+    male4 "挺久前就是朋友了……"
 
 # game/script.rpy:10457
 translate chinese choices12_b_82d567b2:
 
     # male4 "Since first year I believe."
-    male4 ""
+    male4 "从高一开始吧。"
 
 # game/script.rpy:10459
 translate chinese choices12_b_f02befd8:
 
     # male4 "It sorta went something like this..."
-    male4 ""
+    male4 "差不多是这样的……"
 
 # game/script.rpy:10462
 translate chinese choices12_b_a96161e4:
 
     # male4 "So, what's your name?"
-    male4 ""
+    male4 "所以你叫什么？"
 
 # game/script.rpy:10465
 translate chinese choices12_b_89233c4e:
 
     # male3 "Hasegawa Takahiro."
-    male3 ""
+    male3 "长谷川孝弘。"
 
 # game/script.rpy:10466
 translate chinese choices12_b_c24118fb:
 
     # male3 "Some call me Taka, some call me Hiro."
-    male3 ""
+    male3 "有人叫我孝，也有人叫我弘。"
 
 # game/script.rpy:10467
 translate chinese choices12_b_6a6679a7:
 
     # male3 "But only my close friends and family call me that so everyone else just calls me Hasegawa if we're not on a first name basis yet..."
-    male3 ""
+    male3 "但只有很熟的朋友和家人才这么叫，没有熟到能叫名的人一般都叫我长谷川。"
 
 # game/script.rpy:10468
 translate chinese choices12_b_4327abe3:
 
     # male3 "Though some people get confused and say Hasehiro but its Hasegawa not Hirotaka or Hasetaka or Hirohiro."
-    male3 ""
+    male3 "有些人会搞错成长谷弘，但我叫长谷川，不叫弘孝也不叫长谷孝。"
 
 # game/script.rpy:10471
 translate chinese choices12_b_1a00e8dc:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:10473
 translate chinese choices12_b_2e0b43f8:
 
     # male4 "Come again?"
-    male4 ""
+    male4 "再说一遍？"
 
 # game/script.rpy:10476
 translate chinese choices12_b_e09382bf:
 
     # male3 "Hasehiro-"
-    male3 ""
+    male3 "长谷弘——"
 
 # game/script.rpy:10478
 translate chinese choices12_b_58245195:
 
     # male3 "I MEAN!"
-    male3 ""
+    male3 "我！是！说！"
 
 # game/script.rpy:10479
 translate chinese choices12_b_8d901ef6:
 
     # male3 "HASEGAWA HASEGAWA!"
-    male3 ""
+    male3 "我叫长谷川！"
 
 # game/script.rpy:10481
 translate chinese choices12_b_d2aa2a2c:
 
     # male3 "Just call me Taka..."
-    male3 ""
+    male3 "叫我孝就行……"
 
 # game/script.rpy:10482
 translate chinese choices12_b_2c4b260f:
 
     # male3 "or Hiro..."
-    male3 ""
+    male3 "叫弘也行……"
 
 # game/script.rpy:10484
 translate chinese choices12_b_88d85ccf:
 
     # male3 "Which ever one you prefer."
-    male3 ""
+    male3 "随便你叫哪个。"
 
 # game/script.rpy:10487
 translate chinese choices12_b_438ec19a:
 
     # male4 "Hasetaka Hasehiro?"
-    male4 ""
+    male4 "长谷川谷弘？"
 
 # game/script.rpy:10490
 translate chinese choices12_b_6b8fe22d:
 
     # male3 "No."
-    male3 ""
+    male3 "不对。"
 
 # game/script.rpy:10493
 translate chinese choices12_b_736ebd07:
 
     # male4 "Hasehiro Hirohawa!"
-    male4 ""
+    male4 "长谷弘弘川！"
 
 # game/script.rpy:10496
 translate chinese choices12_b_c6ee6964:
 
     # male3 "No!"
-    male3 ""
+    male3 "不对！"
 
 # game/script.rpy:10499
 translate chinese choices12_b_c8e3d730:
 
     # male4 "HIROHASE HIROTAKA"
-    male4 ""
+    male4 "弘长谷弘孝。"
 
 # game/script.rpy:10502
 translate chinese choices12_b_c74b0e4b:
 
     # male3 "NOOOO!!!"
-    male3 ""
+    male3 "不对！！！"
 
 # game/script.rpy:10505
 translate chinese choices12_b_d6a38675:
 
     # male4 "HIROHIRO HIROHIRO!!!"
-    male4 ""
+    male4 "弘弘弘弘弘！"
 
 # game/script.rpy:10508
 translate chinese choices12_b_e8f31c36:
 
     # male3 "AAHHHHHHH!!!"
-    male3 ""
+    male3 "啊啊啊啊啊！！"
 
 # game/script.rpy:10509
 translate chinese choices12_b_0d479f28:
 
     # male3 "NO!! THATS NOT MY NAME!!"
-    male3 ""
+    male3 "我不叫这个！"
 
 # game/script.rpy:10511
 translate chinese choices12_b_ced4498b:
 
     # male3 "UGH! FORGET IT! JUST CALL ME HIRO?! OKAY?!"
-    male3 ""
+    male3 "别搞！就叫我弘！懂吗？！"
 
 # game/script.rpy:10514
 translate chinese choices12_b_8db99da1:
 
     # male4 "And, thats how I met Hiroro!"
-    male4 ""
+    male4 "我就是这么认识弘弘的啦。"
 
 # game/script.rpy:10515
 translate chinese choices12_b_4c0f925e:
 
     # mc "Oookay?"
-    mc ""
+    mc "原来……如此？"
 
 # game/script.rpy:10521
 translate chinese choices12_common_a84ec4c3:
 
     # male4 "Anyways, Haru. What shampoo do you use?"
-    male4 ""
+    male4 "话说，春你一般用什么洗发水？"
 
 # game/script.rpy:10522
 translate chinese choices12_common_05500ff6:
 
     # mc "Huh?"
-    mc ""
+    mc "嗯哼？"
 
 # game/script.rpy:10524
 translate chinese choices12_common_c09450c5:
 
     # male4 "Your hair looks dry..."
-    male4 ""
+    male4 "头发都干枯了……"
 
 # game/script.rpy:10525
 translate chinese choices12_common_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10527
 translate chinese choices12_common_4f62a000:
 
     # "He comes closer."
-    ""
+    "他凑近了。"
 
 # game/script.rpy:10528
 translate chinese choices12_common_72f45913:
 
     # male4 "You look like you haven't been taking care of yourself lately, haven't you?"
-    male4 ""
+    male4 "你是不是不太懂得怎么照顾自己呀？"
 
 # game/script.rpy:10529
 translate chinese choices12_common_90c24f73:
 
     # male4 "Look, you have split ends."
-    male4 ""
+    male4 "你看你发尾都分叉了。"
 
 # game/script.rpy:10530
 translate chinese choices12_common_4a5e5694:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:10531
 translate chinese choices12_common_281cff0e:
 
     # male4 "Here take a seat."
-    male4 ""
+    male4 "来，坐下吧。"
 
 # game/script.rpy:10535
 translate chinese choices12_common_e847be78:
 
     # male4 "Just let me fix you up a little bit."
-    male4 ""
+    male4 "我来帮你修剪一下。"
 
 # game/script.rpy:10536
 translate chinese choices12_common_23092a71:
 
     # male4 "Y,know you should learn how to take care of yourself better."
-    male4 ""
+    male4 "我说啊，你还是多用点心，照顾好自己。"
 
 # game/script.rpy:10537
 translate chinese choices12_common_5855343c:
 
     # male4 "Naomi tells me all about you."
-    male4 ""
+    male4 "直美都跟我说了。"
 
 # game/script.rpy:10538
 translate chinese choices12_common_c31497b1:
 
     # male4 "She talks about you a lot."
-    male4 ""
+    male4 "她老跟我说你呢。"
 
 # game/script.rpy:10539
 translate chinese choices12_common_b93833ed:
 
     # male4 "She tells me that when you get stressed you tend to look more disheveled than usual."
-    male4 ""
+    male4 "她说你压力大的时候就疏于打理。"
 
 # game/script.rpy:10540
 translate chinese choices12_common_5a637186:
 
     # male4 "And that often times you forget to take care of yourself, especially when you're overwhelmed."
-    male4 ""
+    male4 "忙的时候更想不起来照顾自己了。"
 
 # game/script.rpy:10541
 translate chinese choices12_common_228d0be7:
 
     # male4 "She cares about you alot."
-    male4 ""
+    male4 "她很关心你呢。"
 
 # game/script.rpy:10542
 translate chinese choices12_common_e469fd6f:
 
     # male4 "But girls like you look the most beautiful when you're being properly taken care of."
-    male4 ""
+    male4 "被用心照顾的女孩子最美了。"
 
 # game/script.rpy:10543
 translate chinese choices12_common_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10544
 translate chinese choices12_common_ee0a5aed:
 
     # mc "Kaoru?"
-    mc ""
+    mc "薰？"
 
 # game/script.rpy:10545
 translate chinese choices12_common_8743faa8:
 
     # male4 "Yes, dear?"
-    male4 ""
+    male4 "怎么了，亲爱的？"
 
 # game/script.rpy:10546
 translate chinese choices12_common_d267acc4:
 
     # mc "Why are you doing my hair?"
-    mc ""
+    mc "你在对我的头发做什么？"
 
 # game/script.rpy:10547
 translate chinese choices12_common_1a00e8dc:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:10548
 translate chinese choices12_common_cd6dcab1:
 
     # male4 "I'm sorry, do you not like it?"
-    male4 ""
+    male4 "抱歉了，你不喜欢这样吗？"
 
 # game/script.rpy:10549
 translate chinese choices12_common_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10550
 translate chinese choices12_common_4e4f2604:
 
     # mc "It's not that I don't like it."
-    mc ""
+    mc "也不是不喜欢。"
 
 # game/script.rpy:10551
 translate chinese choices12_common_7cc202c0:
 
     # mc "Nevermind..."
-    mc ""
+    mc "当我没说……"
 
 # game/script.rpy:10552
 translate chinese choices12_common_34132b12:
 
     # male4 "Alright then."
-    male4 ""
+    male4 "那就好。"
 
 # game/script.rpy:10553
 translate chinese choices12_common_b70b8230:
 
     # male4 "You probably think it's strange for guys to be doing a girl's hair, that's probably what you're wondering right?"
-    male4 ""
+    male4 "你估计好奇为什么我一个男生会护理女生的头发，对吗？"
 
 # game/script.rpy:10554
 translate chinese choices12_common_593a77d9:
 
     # male4 "Well..."
-    male4 ""
+    male4 "嗯……"
 
 # game/script.rpy:10555
 translate chinese choices12_common_82dd4df2:
 
     # male4 "I happen to have many sisters."
-    male4 ""
+    male4 "我家里有很多姐妹。"
 
 # game/script.rpy:10556
 translate chinese choices12_common_7cfa3966:
 
     # male4 "And my mother owns a beauty salon."
-    male4 ""
+    male4 "我妈还是开美发店的。"
 
 # game/script.rpy:10557
 translate chinese choices12_common_8636109f:
 
     # male4 "I used to help her deal with clients."
-    male4 ""
+    male4 "小时候我给她帮忙。"
 
 # game/script.rpy:10558
 translate chinese choices12_common_b722f487:
 
     # male4 "She taught me how to do their hair."
-    male4 ""
+    male4 "她教会了我怎么护理头发。"
 
 # game/script.rpy:10559
 translate chinese choices12_common_1a00e8dc_1:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:10560
 translate chinese choices12_common_e9082e9f:
 
     # male4 "That pretty much explains it."
-    male4 ""
+    male4 "差不多就是这个原因。"
 
 # game/script.rpy:10561
 translate chinese choices12_common_caa4a6c7:
 
     # male4 "In school I used to get picked on for looking like a girl."
-    male4 ""
+    male4 "以前在学校我还因为长得像女孩子被人欺负。"
 
 # game/script.rpy:10562
 translate chinese choices12_common_db07788d:
 
     # male4 "Naomi was the first person who saw me as a guy."
-    male4 ""
+    male4 "直美是第一个把我当男生的人。"
 
 # game/script.rpy:10563
 translate chinese choices12_common_31b6d2b5:
 
     # male4 "It's really funny though."
-    male4 ""
+    male4 "这就挺搞笑的。"
 
 # game/script.rpy:10564
 translate chinese choices12_common_ff567380:
 
     # male4 "At the time, I didn't even know she was a girl."
-    male4 ""
+    male4 "那时我都不知道她是女生呢。"
 
 # game/script.rpy:10565
 translate chinese choices12_common_64d55256:
 
     # male4 "We were practically polar opposites."
-    male4 ""
+    male4 "我们正好是两极相反。"
 
 # game/script.rpy:10566
 translate chinese choices12_common_e5d72c2e:
 
     # "I felt as if Kaoru's gentle hands caressed each strand of my hair with care."
-    ""
+    "感觉薰用双手，温柔细心地解开了我每一缕打结的头发。"
 
 # game/script.rpy:10567
 translate chinese choices12_common_9525d1d2:
 
     # "We bonded closer after exchanging stories with each other."
-    ""
+    "我们聊了彼此的往事，缩短了我们内心的距离。"
 
 # game/script.rpy:10571
 translate chinese choices12_common_7f01e31f:
 
     # male4 "And we're done."
-    male4 ""
+    male4 "做好啦。"
 
 # game/script.rpy:10575
 translate chinese choices12_common_1a00e8dc_2:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:10578
 translate chinese choices12_common_3fc104c2:
 
     # male3 "Kaoru."
-    male3 ""
+    male3 "薰。"
 
 # game/script.rpy:10579
 translate chinese choices12_common_e2f8fc87:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10580
 translate chinese choices12_common_a416dde4:
 
     # male3 "What are you two doing?"
-    male3 ""
+    male3 "你们两个在干嘛？"
 
 # game/script.rpy:10583
 translate chinese choices12_common_fae70f3a:
 
     # male4 "N-N-NOTHING!"
-    male4 ""
+    male4 "没、没干嘛！"
 
 # game/script.rpy:10586
 translate chinese choices12_common_e2f8fc87_1:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10587
 translate chinese choices12_common_fac4d547:
 
     # male3 "Y,know what, I'm not even gonna ask."
-    male3 ""
+    male3 "你也知道，我问都不想问。"
 
 # game/script.rpy:10588
 translate chinese choices12_common_b6764687:
 
     # male3 "Haru, come with me."
-    male3 ""
+    male3 "春，跟我来一趟。"
 
 # game/script.rpy:10589
 translate chinese choices12_common_a3eeb4f7:
 
     # male3 "I need you to meet with me in my office real quick."
-    male3 ""
+    male3 "马上来办公室见我。"
 
 # game/script.rpy:10592
 translate chinese choices12_common_77f6aa3c:
 
     # male4 "Hey, she was talking with me."
-    male4 ""
+    male4 "大哥，她还在跟我聊天呢。"
 
 # game/script.rpy:10595
 translate chinese choices12_common_b40b6810:
 
     # male3 "So?"
-    male3 ""
+    male3 "所以呢？"
 
 # game/script.rpy:10596
 translate chinese choices12_common_a6a0fa33:
 
     # male3 "It's her fault my arm is broken so she owes me a favor."
-    male3 ""
+    male3 "要不是因为她我就不会骨折，这是她欠我的。"
 
 # game/script.rpy:10597
 translate chinese choices12_common_710f15d6:
 
     # male3 "Now excuse us Kaoru."
-    male3 ""
+    male3 "请原谅我们告辞了。"
 
 # game/script.rpy:10600
 translate chinese choices12_common_c5537613:
 
     # "You arrive with Hiro at his office."
-    ""
+    "我和弘来了他办公室。"
 
 # game/script.rpy:10602
 translate chinese choices12_common_45fd5175:
 
     # male3 "Please excuse Kaoru."
-    male3 ""
+    male3 "原谅一下薰。"
 
 # game/script.rpy:10603
 translate chinese choices12_common_7d33e6f7:
 
     # male3 "Sometimes he can get carried away..."
-    male3 ""
+    male3 "他就是这么不着调。"
 
 # game/script.rpy:10605
 translate chinese choices12_common_45b3fc9a:
 
     # male3 "He likes to sweet talk women but apparently he's completely oblivious about what he actually says."
-    male3 ""
+    male3 "他喜欢给女的说甜言蜜语，但显然对自己的所作所为毫无认知。"
 
 # game/script.rpy:10607
 translate chinese choices12_common_bf3d6455:
 
     # male3 "He says tons of stuff without giving it second-thought."
-    male3 ""
+    male3 "他根本不过脑子，啥都往外说。"
 
 # game/script.rpy:10609
 translate chinese choices12_common_848bf655:
 
     # male3 "I'm gonna warn you though, you shouldn't take what he says seriously."
-    male3 ""
+    male3 "但我得警告你，不要轻信他。"
 
 # game/script.rpy:10610
 translate chinese choices12_common_0a6156a9:
 
     # male3 "He's oblivious but he can be really inconsiderate sometimes."
-    male3 ""
+    male3 "他是挺懵懂的，但同时也很自我。"
 
 # game/script.rpy:10611
 translate chinese choices12_common_ff89fd93:
 
     # mc "... What do you mean?"
-    mc ""
+    mc "……什么意思？"
 
 # game/script.rpy:10613
 translate chinese choices12_common_e87c3866:
 
     # male3 "I mean he likes to mess with people's emotions too much."
-    male3 ""
+    male3 "意思是他喜欢玩弄别人的感情。"
 
 # game/script.rpy:10615
 translate chinese choices12_common_f4fb0cb4:
 
     # male3 "Do you understand?"
-    male3 ""
+    male3 "你明白吗？"
 
 # game/script.rpy:10617
 translate chinese choices13_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "呃……"
 
 # game/script.rpy:10627
 translate chinese choices13_common_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10628
 translate chinese choices13_common_aa045409:
 
     # mc "I actually don't know what to say."
-    mc ""
+    mc "其实我不知道该说什么。"
 
 # game/script.rpy:10630
 translate chinese choices13_common_1243a22f:
 
     # "The bell rings."
-    ""
+    "铃响了。"
 
 # game/script.rpy:10631
 translate chinese choices13_common_aa293b37:
 
     # "It's time for class."
-    ""
+    "上课时间到。"
 
 # game/script.rpy:10632
 translate chinese choices13_common_3b97b3e5:
 
     # male3 "It's time for class."
-    male3 ""
+    male3 "该上课了。"
 
 # game/script.rpy:10634
 translate chinese choices13_common_fac27437:
 
     # male3 "I'll see ya after school then, I guess."
-    male3 ""
+    male3 "那放学后再见。"
 
 # game/script.rpy:10647
 translate chinese choices13_common_8dd5e052:
 
     # male3 "Anyways..."
-    male3 ""
+    male3 "话说……"
 
 # game/script.rpy:10648
 translate chinese choices13_common_d5875fb6:
 
     # male3 "The paperwork is over there."
-    male3 ""
+    male3 "那沓文件在那边。"
 
 # game/script.rpy:10649
 translate chinese choices13_common_989b2999:
 
     # male3 "Do you think you can bring it over here for me?"
-    male3 ""
+    male3 "你能帮我带过去吗？"
 
 # game/script.rpy:10650
 translate chinese choices13_common_e2f8fc87:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10651
 translate chinese choices13_common_71977c01:
 
     # male3 "And don't worry about my arm..."
-    male3 ""
+    male3 "别担心我胳膊的事……"
 
 # game/script.rpy:10652
 translate chinese choices13_common_8bed5b98:
 
     # male3 "A deal's a deal."
-    male3 ""
+    male3 "一言既出驷马难追。"
 
 # game/script.rpy:10653
 translate chinese choices13_common_725c03f4:
 
     # male3 "I'll talk to the head master about it sometime next week..."
-    male3 ""
+    male3 "下周我会找时间跟校长说……"
 
 # game/script.rpy:10655
 translate chinese choices13_common_178c982c:
 
     # male3 "I can't guarantee that he'll listen to me though."
-    male3 ""
+    male3 "但不保证他会同意。"
 
 # game/script.rpy:10657
 translate chinese choices13_common_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10658
 translate chinese choices13_common_a64e8bc0:
 
     # mc "Thanks."
-    mc ""
+    mc "谢谢你。"
 
 # game/script.rpy:10660
 translate chinese choices13_common_28407776:
 
     # male3 "W-Wh-What are you thanking me for!?!?"
-    male3 ""
+    male3 "你、你谢我干什么？！"
 
 # game/script.rpy:10661
 translate chinese choices13_common_7d7a2c19:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:10680
 translate chinese choices13_common_0db384c4:
 
     # centered "{size=50}You've earned a heart from Hiro!{/size}"
-    centered ""
+    centered "{size=50}你获得了弘的一颗心！{/size}"
 
 # game/script.rpy:10683
 translate chinese choices13_common_3ad3103d:
 
     # male3 "Just hurry up and go get the paperwork!!!"
-    male3 ""
+    male3 "别说了，赶紧去搬文件！"
 
 # game/script.rpy:10690
 translate chinese choices13_common_17241bb6:
 
     # male3 "So, do you think you could help me sign and stamp here?"
-    male3 ""
+    male3 "话说你能帮我在这签字盖章吗？"
 
 # game/script.rpy:10691
 translate chinese choices13_common_e2f8fc87_1:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10692
 translate chinese choices13_common_4be2ec26:
 
     # male3 "It needs my signiature..."
-    male3 ""
+    male3 "这里需要我签字……"
 
 # game/script.rpy:10694
 translate chinese choices13_common_4978d0f7:
 
     # male3 "I'll guess I'll just make do with my left hand."
-    male3 ""
+    male3 "我得用左手签了。"
 
 # game/script.rpy:10696
 translate chinese choices13_common_e2f8fc87_2:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10697
 translate chinese choices13_common_8beb8aaf:
 
     # male3 "Harumiya..."
-    male3 ""
+    male3 "春宫……"
 
 # game/script.rpy:10698
 translate chinese choices13_common_b48eaa62:
 
     # male3 "What are you spacing out for?"
-    male3 ""
+    male3 "你在发什么呆？"
 
 # game/script.rpy:10699
 translate chinese choices13_common_a4fcb7ef:
 
     # mc "Oh!"
-    mc ""
+    mc "哦！"
 
 # game/script.rpy:10700
 translate chinese choices13_common_cc8fedbc:
 
     # mc "Sorry about that."
-    mc ""
+    mc "不好意思。"
 
 # game/script.rpy:10701
 translate chinese choices13_common_34d57f44:
 
     # male3 "Is there something on your mind?"
-    male3 ""
+    male3 "你有心事吗？"
 
 # game/script.rpy:10702
 translate chinese choices13_common_3640858c:
 
     # mc "Uhm... no."
-    mc ""
+    mc "呃……没有。"
 
 # game/script.rpy:10703
 translate chinese choices13_common_f705863b:
 
     # mc "It's just..."
-    mc ""
+    mc "就是……"
 
 # game/script.rpy:10704
 translate chinese choices13_common_840e5fad:
 
     # male3 "It's just what?"
-    male3 ""
+    male3 "就是什么？"
 
 # game/script.rpy:10705
 translate chinese choices13_common_a80153ef:
 
     # mc "This is usually around the time Naomi helps me with my homework..."
-    mc ""
+    mc "一般这个时候直美会辅导我功课……"
 
 # game/script.rpy:10706
 translate chinese choices13_common_3267c412:
 
     # male3 "Oh."
-    male3 ""
+    male3 "哦。"
 
 # game/script.rpy:10707
 translate chinese choices13_common_50f3439f:
 
     # male3 "Is that so?"
-    male3 ""
+    male3 "这样吗？"
 
 # game/script.rpy:10708
 translate chinese choices13_common_e2f8fc87_3:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10709
 translate chinese choices13_common_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10710
 translate chinese choices13_common_88e01876:
 
     # male3 ". . ."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10711
 translate chinese choices13_common_dc24d2be:
 
     # male3 "Well..."
-    male3 ""
+    male3 "那……"
 
 # game/script.rpy:10712
 translate chinese choices13_common_4fc57737:
 
     # male3 "Uhm. . ."
-    male3 ""
+    male3 "呃……"
 
 # game/script.rpy:10713
 translate chinese choices13_common_0acd1295:
 
     # male3 "How are your grades?"
-    male3 ""
+    male3 "你成绩怎么样？"
 
 # game/script.rpy:10714
 translate chinese choices13_common_77a89e99:
 
     # mc ". . ."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10715
 translate chinese choices13_common_e59d7a90:
 
     # male3 "We got our midterm results last week right?"
-    male3 ""
+    male3 "上周不是出了期中考分数吗？"
 
 # game/script.rpy:10716
 translate chinese choices13_common_1f568699:
 
     # male3 "What did you get?"
-    male3 ""
+    male3 "你多少分？"
 
 # game/script.rpy:10717
 translate chinese choices13_common_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10718
 translate chinese choices13_common_0c70ec0f:
 
     # mc "What subject?"
-    mc ""
+    mc "你说哪科？"
 
 # game/script.rpy:10719
 translate chinese choices13_common_a92e8422:
 
     # male3 "Uhhhh... I don't know."
-    male3 ""
+    male3 "emmm我也不知道。"
 
 # game/script.rpy:10720
 translate chinese choices13_common_e8f994c4:
 
     # male3 "Math maybe?"
-    male3 ""
+    male3 "那数学吧。"
 
 # game/script.rpy:10721
 translate chinese choices13_common_0b93d2c7:
 
     # mc "{size=16}34{/size}"
-    mc ""
+    mc "{size=16}34{/size}"
 
 # game/script.rpy:10722
 translate chinese choices13_common_e2f8fc87_4:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10723
 translate chinese choices13_common_58d422c2:
 
     # male3 "Come again?"
-    male3 ""
+    male3 "再说一遍？"
 
 # game/script.rpy:10724
 translate chinese choices13_common_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10725
 translate chinese choices13_common_77a89e99_1:
 
     # mc ". . ."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10726
 translate chinese choices13_common_cfa1cd58:
 
     # mc "I got a 34 in math okay?!"
-    mc ""
+    mc "我数学34，行了吗？！"
 
 # game/script.rpy:10727
 translate chinese choices13_common_e2f8fc87_5:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10729
 translate chinese choices13_common_a78420a6:
 
     # male3 "YOU GOT A WHAT!?!?"
-    male3 ""
+    male3 "多少？！？"
 
 # game/script.rpy:10731
 translate chinese choices13_common_2281c1ca:
 
     # male3 "HOW DO YOU GET A 34 IN MATH?!"
-    male3 ""
+    male3 "你怎么考出34分的数学的啊？！"
 
 # game/script.rpy:10732
 translate chinese choices13_common_972d55a8:
 
     # male3 "HOW ARE YOU GOING TO EXPLAIN THAT TO YOUR PARENTS?!"
-    male3 ""
+    male3 "怎么跟父母交代？！"
 
 # game/script.rpy:10734
 translate chinese choices13_common_c619fbb6:
 
     # male3 "I mean!!!"
-    male3 ""
+    male3 "我是说！！"
 
 # game/script.rpy:10735
 translate chinese choices13_common_e2f8fc87_6:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10736
 translate chinese choices13_common_55e14916:
 
     # male3 "It's none of my business really!"
-    male3 ""
+    male3 "我根本无所谓你的！"
 
 # game/script.rpy:10737
 translate chinese choices13_common_e2f8fc87_7:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10739
 translate chinese choices13_common_c9972f75:
 
     # male3 "You better not be laughing at me!"
-    male3 ""
+    male3 "不许笑话我！"
 
 # game/script.rpy:10740
 translate chinese choices13_common_2b35b6fe_5:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10741
 translate chinese choices13_common_2b3d8bb6:
 
     # mc "Geez..."
-    mc ""
+    mc "噫……"
 
 # game/script.rpy:10742
 translate chinese choices13_common_fdc3266c:
 
     # mc "Insecure much?"
-    mc ""
+    mc "这么容易不安吗？"
 
 # game/script.rpy:10744
 translate chinese choices13_common_0d43a829:
 
     # male3 "Anyway..."
-    male3 ""
+    male3 "那……"
 
 # game/script.rpy:10745
 translate chinese choices13_common_e2f8fc87_8:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10746
 translate chinese choices13_common_9c6f2869:
 
     # male3 "I mean if you're grades are THAT bad I guess I could tutor you myself."
-    male3 ""
+    male3 "我是说你要是成绩真的那么差，我也可以辅导你。"
 
 # game/script.rpy:10747
 translate chinese choices13_common_2b35b6fe_6:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10748
 translate chinese choices13_common_a31340dd:
 
     # mc "Really?"
-    mc ""
+    mc "真的吗？"
 
 # game/script.rpy:10750
 translate chinese choices13_common_20a72c34:
 
     # male3 "AAAAAAAAAHHHHHHHHHH!!!!"
-    male3 ""
+    male3 "啊啊啊啊啊啊！！"
 
 # game/script.rpy:10751
 translate chinese choices13_common_90579f47:
 
     # male3 "DON'T LOOK AT ME LIKE THAT!"
-    male3 ""
+    male3 "别用这种眼神看我！"
 
 # game/script.rpy:10753
 translate chinese choices13_common_536fd8d4:
 
     # male3 "Look, I'm only doing this out of common courtesy!"
-    male3 ""
+    male3 "我只是出于礼貌帮助同学罢了！"
 
 # game/script.rpy:10755
 translate chinese choices13_common_ea3be6eb:
 
     # male3 "After all, its partially my fault that you don't have enough time to attend to your studies like you should be doing."
-    male3 ""
+    male3 "再说，你成绩不好也有我的责任，是我一直占用你的学习时间干活。"
 
 # game/script.rpy:10756
 translate chinese choices13_common_59bc0ef7:
 
     # male3 "You're spending your time helping me out after all."
-    male3 ""
+    male3 "毕竟你的时间都用来帮我了。"
 
 # game/script.rpy:10757
 translate chinese choices13_common_e88b7dd1:
 
     # male3 "By extension that means I'm responsible for you..."
-    male3 ""
+    male3 "也就是说你出什么状况……"
 
 # game/script.rpy:10758
 translate chinese choices13_common_822bcc90:
 
     # male3 "For the time being..."
-    male3 ""
+    male3 "我也得负责……"
 
 # game/script.rpy:10759
 translate chinese choices13_common_e2f8fc87_9:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10761
 translate chinese choices13_common_228486cf:
 
     # male3 "You better not get any weird ideas about it okay!"
-    male3 ""
+    male3 "你别给我想歪了啊我警告你！"
 
 # game/script.rpy:10762
 translate chinese choices13_common_4836e594:
 
     # mc "... what are you talking about?"
-    mc ""
+    mc "……你在说什么啊？"
 
 # game/script.rpy:10763
 translate chinese choices13_common_9dba875b:
 
     # male3 "NOTHING!"
-    male3 ""
+    male3 "没什么！"
 
 # game/script.rpy:10766
 translate chinese choices13_common_7e7b85fd:
 
     # centered "Type the letters that pop up on the screen before the timer runs out."
-    centered ""
+    centered "在计时结束前，打出屏幕上出现的字母。（注意切换英文键盘！）"
 
 # game/script.rpy:10768
 translate chinese choices13_common_b10edb9b:
 
     # centered "{color=#000}Okay Haru, Lets start with simple warm ups!{/color}"
-    centered ""
+    centered "{color=#000}好嘞千春，咱们先来个简单的热身！{/color}"
 
 # game/script.rpy:10769
 translate chinese choices13_common_c18f4407:
 
     # centered "{color=#000}Whats 2 + 2 = ?{/color}"
-    centered ""
+    centered "{color=#000}2 + 2 等于几？{/color}"
 
 # game/script.rpy:10789
 translate chinese choices13_common_d5e85d91:
 
     # mc "3!"
-    mc ""
+    mc "3！"
 
 # game/script.rpy:10792
 translate chinese choices13_common_f2844675:
 
     # male3 "WRONG!"
-    male3 ""
+    male3 "错！"
 
 # game/script.rpy:10797
 translate chinese choices13_common_d5e85d91_1:
 
     # mc "3!"
-    mc ""
+    mc "3！"
 
 # game/script.rpy:10800
 translate chinese choices13_common_f2844675_1:
 
     # male3 "WRONG!"
-    male3 ""
+    male3 "错！"
 
 # game/script.rpy:10801
 translate chinese choices13_common_7d7a2c19_1:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:10830
 translate chinese trivia_end2_414b602e:
 
     # male3 "Jesus Christ! How did you even make it to highschool? You can't do math even if you're life depended on it!"
-    male3 ""
+    male3 "我的老天爷啊！你这都怎么上的高中啊？拿枪指着你也不会啊！"
 
 # game/script.rpy:10831
 translate chinese trivia_end2_712ef8f2:
 
     # male3 "Are you dumb? How could you not even solve a simple math equation?"
-    male3 ""
+    male3 "你是蠢的吗？连基本的方程都不会解吗？"
 
 # game/script.rpy:10833
 translate chinese trivia_end2_e2f8fc87:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10834
 translate chinese trivia_end2_1b4158a9:
 
     # male3 "Let's just take a break from studying for now, you're raising my blood pressure just by me listening to your dumb answers."
-    male3 ""
+    male3 "我们休息一下，先别学习了。我看你这么蠢就血压飙升。"
 
 # game/script.rpy:10835
 translate chinese trivia_end2_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10836
 translate chinese trivia_end2_3aa7783e:
 
     # mc "(Wow, Naomi is right, he is a jerk.)"
-    mc ""
+    mc "（呐，看来直美说得对。他真是混蛋。）"
 
 # game/script.rpy:10837
 translate chinese trivia_end2_7f97a520:
 
     # "An awkward silence fills the air as Hiro and I continue filling out the paper work for the rest of the afternoon."
-    ""
+    "空气陷入了尴尬的沉默。接下来的整个下午，我们都在填文件。"
 
 # game/script.rpy:10844
 translate chinese trivia_end2_24cd1ace:
 
     # "Finally home."
-    ""
+    "终于回家了。"
 
 # game/script.rpy:10845
 translate chinese trivia_end2_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10847
 translate chinese trivia_end2_4d8996ad:
 
     # mc "Wait..."
-    mc ""
+    mc "等等……"
 
 # game/script.rpy:10848
 translate chinese trivia_end2_0a0f79bf:
 
     # mc "I just realized that..."
-    mc ""
+    mc "我才发现……"
 
 # game/script.rpy:10849
 translate chinese trivia_end2_7eabb144:
 
     # mc "There's something off with this game..."
-    mc ""
+    mc "这游戏有点离谱……"
 
 # game/script.rpy:10850
 translate chinese trivia_end2_70dee173:
 
     # mc "How come everything that happens in the game ends up happening in real life?"
-    mc ""
+    mc "怎么游戏里的情节都和现实一一对应了？"
 
 # game/script.rpy:10851
 translate chinese trivia_end2_c325f179:
 
     # mc "Am I hallucinating again?"
-    mc ""
+    mc "我又出现幻境了吗？"
 
 # game/script.rpy:10852
 translate chinese trivia_end2_9bccf7b3:
 
     # "妈妈" "Chiharu!" with vpunch
-    "妈妈" "" with vpunch
+    "妈妈" "千春！" with vpunch
 
 # game/script.rpy:10853
 translate chinese trivia_end2_e232d0b3:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:10855
 translate chinese trivia_end2_c09b713c:
 
     # "妈妈" "Dinner's ready!"
-    "妈妈" ""
+    "妈妈" "晚饭好了！"
 
 # game/script.rpy:10856
 translate chinese trivia_end2_fdd40b3d:
 
     # mc "... I'll think about this some other time."
-    mc ""
+    mc "……我有空再想这个吧。"
 
 # game/script.rpy:10859
 translate chinese trivia_end2_2ab92413:
 
     # centered "{size=45}Two days later.{/size}"
-    centered ""
+    centered "{size=45}两天后。{/size}"
 
 # game/script.rpy:10867
 translate chinese trivia_end2_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10868
 translate chinese trivia_end2_e27147ee:
 
     # mc "It's strange."
-    mc ""
+    mc "奇怪了。"
 
 # game/script.rpy:10869
 translate chinese trivia_end2_623d19ab:
 
     # mc "This is when Naomi usually greets me in the morning."
-    mc ""
+    mc "一般这个点，直美都跟我打招呼了。"
 
 # game/script.rpy:10870
 translate chinese trivia_end2_1b5558e3:
 
     # mc "Where is she?"
-    mc ""
+    mc "她人呢？"
 
 # game/script.rpy:10871
 translate chinese trivia_end2_d7906997:
 
     # male4 "Haru!!!"
-    male4 ""
+    male4 "千春！！"
 
 # game/script.rpy:10872
 translate chinese trivia_end2_444b1f77:
 
     # mc "?"
-    mc ""
+    mc "？"
 
 # game/script.rpy:10873
 translate chinese trivia_end2_ddfe6fe4:
 
     # "Someone was calling me from the hallway."
-    ""
+    "有人在楼道叫我。"
 
 # game/script.rpy:10875
 translate chinese trivia_end2_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10876
 translate chinese trivia_end2_4f844c5f:
 
     # mc "(Who was that?)"
-    mc ""
+    mc "（是谁呀？）"
 
 # game/script.rpy:10877
 translate chinese trivia_end2_ccdbe8d6:
 
     # mc "!!!" with vpunch
-    mc "" with vpunch
+    mc "！！！" with vpunch
 
 # game/script.rpy:10878
 translate chinese trivia_end2_20cd8da1:
 
     # male4 "Guess who."
-    male4 ""
+    male4 "你猜是谁。"
 
 # game/script.rpy:10879
 translate chinese trivia_end2_8fbfee83:
 
     # mc "Kaoru! What are you doing?!"
-    mc ""
+    mc "薰，你干嘛？！"
 
 # game/script.rpy:10881
 translate chinese trivia_end2_0175f6a9:
 
     # male4 "You know, a girl like you shouldn't let your guard down so easily."
-    male4 ""
+    male4 "女孩子可不能这么轻易卸下防备。"
 
 # game/script.rpy:10882
 translate chinese trivia_end2_7848d98b:
 
     # male4 "After all, its really dangerous to go out there in the world by yourself when you can't sense danger."
-    male4 ""
+    male4 "你这样毫无戒心，在外面混是很危险的。"
 
 # game/script.rpy:10884
 translate chinese trivia_end2_0edcf2f9:
 
     # male4 "You should take more care of yourself."
-    male4 ""
+    male4 "用心照顾好自己吧。"
 
 # game/script.rpy:10885
 translate chinese trivia_end2_e765f2d5:
 
     # male4 "Who knows, you might die if you're not careful enough."
-    male4 ""
+    male4 "要是不小心，死了也说不定呢。"
 
 # game/script.rpy:10886
 translate chinese trivia_end2_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10887
 translate chinese trivia_end2_3fab0bf4:
 
     # mc "What are you trying to say?"
-    mc ""
+    mc "你是想表达什么？"
 
 # game/script.rpy:10889
 translate chinese trivia_end2_66314129:
 
     # male4 "Nothing..."
-    male4 ""
+    male4 "没什么……"
 
 # game/script.rpy:10891
 translate chinese trivia_end2_031b3afd:
 
     # male4 "By the way..."
-    male4 ""
+    male4 "顺便说下……"
 
 # game/script.rpy:10892
 translate chinese trivia_end2_652650d3:
 
     # mc "...?"
-    mc ""
+    mc "……？"
 
 # game/script.rpy:10893
 translate chinese trivia_end2_8c860f10:
 
     # male3 "Hold it right there!" with vpunch
-    male3 "" with vpunch
+    male3 "别动！" with vpunch
 
 # game/script.rpy:10895
 translate chinese trivia_end2_c7e0db3f:
 
     # male4 "!!!"
-    male4 ""
+    male4 "！！！"
 
 # game/script.rpy:10898
 translate chinese trivia_end2_37c0d37b:
 
     # male3 "She's coming with me."
-    male3 ""
+    male3 "她跟我走。"
 
 # game/script.rpy:10901
 translate chinese trivia_end2_510f5c7f:
 
     # male4 "Hiro, I was talking to her first. I kinda have something I want to talk to her about; do you think we can do this later?"
-    male4 ""
+    male4 "弘啊，是我先来的，我还有点东西想跟她聊聊呢，要不你待会儿再来？"
 
 # game/script.rpy:10904
 translate chinese trivia_end2_5c719139:
 
     # male3 "Excuse me?!"
-    male3 ""
+    male3 "开什么玩笑？！"
 
 # game/script.rpy:10907
 translate chinese trivia_end2_4f098c2f:
 
     # male4 "N-N-Nevermind!"
-    male4 ""
+    male4 "啊，我没事了，你们聊！"
 
 # game/script.rpy:10909
 translate chinese trivia_end2_a79bd59e:
 
     # male4 "Sorry about that Haru, I guess I'll talk to you later about it okay!?"
-    male4 ""
+    male4 "抱歉了千春，咱们待会儿再聊行吗？"
 
 # game/script.rpy:10911
 translate chinese trivia_end2_c6b63fcb:
 
     # "He runs off into the distance."
-    ""
+    "他跑远了。"
 
 # game/script.rpy:10912
 translate chinese trivia_end2_2b35b6fe_5:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10913
 translate chinese trivia_end2_a1e42532:
 
     # mc "And there goes Kaoru..."
-    mc ""
+    mc "薰跑的真快……"
 
 # game/script.rpy:10915
 translate chinese trivia_end2_e2f8fc87_1:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10916
 translate chinese trivia_end2_56e187ab:
 
     # male3 "Harumiya san."
-    male3 ""
+    male3 "春宫同学。"
 
 # game/script.rpy:10917
 translate chinese trivia_end2_575e940a:
 
     # male3 "I just wanted to let you know..."
-    male3 ""
+    male3 "我只是来告知你……"
 
 # game/script.rpy:10918
 translate chinese trivia_end2_2b35b6fe_6:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10919
 translate chinese trivia_end2_6e9be975:
 
     # male3 "Surprisingly, the club got approval."
-    male3 ""
+    male3 "你们的社团意外获批了。"
 
 # game/script.rpy:10920
 translate chinese trivia_end2_80da7129:
 
     # male3 "It was a hassle to explain but the head master approved of the club..."
-    male3 ""
+    male3 "给校长解释起来废了九牛二虎之力……"
 
 # game/script.rpy:10921
 translate chinese trivia_end2_104a9ade:
 
     # male3 "For now at least."
-    male3 ""
+    male3 "但至少现在是批准了。"
 
 # game/script.rpy:10922
 translate chinese trivia_end2_43d7a40f:
 
     # male3 "You guys will need to be able to find one more member by the end of the month."
-    male3 ""
+    male3 "你们下个月前要再找一个成员。"
 
 # game/script.rpy:10923
 translate chinese trivia_end2_d18663f1:
 
     # mc "... one more?"
-    mc ""
+    mc "找一个就够了吗？"
 
 # game/script.rpy:10924
 translate chinese trivia_end2_9cc232e2:
 
     # mc "I thought we needed four in total."
-    mc ""
+    mc "我还想我们要有四个人呢。"
 
 # game/script.rpy:10925
 translate chinese trivia_end2_cb2f118e:
 
     # male3 "About that..."
-    male3 ""
+    male3 "那个啊……"
 
 # game/script.rpy:10926
 translate chinese trivia_end2_d7014361:
 
     # male3 "I somehow convinced him that Akari is a legitimate member."
-    male3 ""
+    male3 "我想方设法让他认可了，明莉也是合法成员。"
 
 # game/script.rpy:10927
 translate chinese trivia_end2_ad492edb:
 
     # male3 "So she counts."
-    male3 ""
+    male3 "所以她算一个。"
 
 # game/script.rpy:10929
 translate chinese trivia_end2_271f3fe1:
 
     # male3 "It was embarrassing! All right!?"
-    male3 ""
+    male3 "这很尴尬的好吧！？"
 
 # game/script.rpy:10930
 translate chinese trivia_end2_01b483d2:
 
     # male3 "He called the middle school and bribed them for permission!"
-    male3 ""
+    male3 "他打电话给初中，贿赂了他们才算的！"
 
 # game/script.rpy:10932
 translate chinese trivia_end2_ed28c63c:
 
     # male3 "Just be happy that it wasn't your pride that had to be thrown under the bus for this!!"
-    male3 ""
+    male3 "你可好了，反正尊严扫地的又不是你！！"
 
 # game/script.rpy:10933
 translate chinese trivia_end2_2b35b6fe_7:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10934
 translate chinese trivia_end2_bb44671f:
 
     # mc "Thanks Hiro."
-    mc ""
+    mc "谢谢你，弘。"
 
 # game/script.rpy:10935
 translate chinese trivia_end2_2d495273:
 
     # mc "You really did keep your word."
-    mc ""
+    mc "你真的信守诺言了。"
 
 # game/script.rpy:10937
 translate chinese trivia_end2_e2f8fc87_2:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10939
 translate chinese trivia_end2_b2ae88a5:
 
     # male3 "Don't mention it."
-    male3 ""
+    male3 "别提了。"
 
 # game/script.rpy:10940
 translate chinese trivia_end2_88e01876:
 
     # male3 ". . ."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10942
 translate chinese trivia_end2_ce641af1:
 
     # male3 "I-I-I MEAN!!!"
-    male3 ""
+    male3 "我、我是说！！"
 
 # game/script.rpy:10943
 translate chinese trivia_end2_2aa2d090:
 
     # male3 "AHHHHHHH!!! FORGET WHAT I JUST SAID!!! JUST-JUST-JUST...!"
-    male3 ""
+    male3 "啊啊啊啊啊！就、就当我没说！"
 
 # game/script.rpy:10944
 translate chinese trivia_end2_4aa13f68:
 
     # male3 "AHHHHHHHHHHHHHHH!!!!"
-    male3 ""
+    male3 "啊啊啊啊啊！"
 
 # game/script.rpy:10946
 translate chinese trivia_end2_62c1e243:
 
     # "And just like that, Hiro disappeared into the halls."
-    ""
+    "弘就这么消失在了楼道。"
 
 # game/script.rpy:10948
 translate chinese trivia_end2_82fa0b37:
 
     # "It's time for class to start."
-    ""
+    "该上课了。"
 
 # game/script.rpy:10959
 translate chinese trivia_end2_bee294f4:
 
     # mc "Hmmmm..."
-    mc ""
+    mc "emmmmm……"
 
 # game/script.rpy:10960
 translate chinese trivia_end2_8c2d6db7:
 
     # mc "Where should I go today?"
-    mc ""
+    mc "今天去哪里呢？"
 
 # game/script.rpy:10961
 translate chinese trivia_end2_77c8c55e:
 
     # mc "Kaoru seemed like he wanted to talk to me about something..."
-    mc ""
+    mc "薰好像有话跟我说……"
 
 # game/script.rpy:10962
 translate chinese trivia_end2_aea68f85:
 
     # mc "but I have obligations with Hiro after school..."
-    mc ""
+    mc "但放学后我还得帮弘干活……"
 
 # game/script.rpy:10963
 translate chinese trivia_end2_77a89e99:
 
     # mc ". . ."
-    mc ""
+    mc "……"
 
 # game/script.rpy:10964
 translate chinese trivia_end2_63d9f15d:
 
     # mc "I wonder who should I visit first?"
-    mc ""
+    mc "那先找谁呢？"
 
 # game/script.rpy:10974
 translate chinese choices14_common_44111289:
 
     # mc "I think I'll go visit Hiro today."
-    mc ""
+    mc "今天先去找弘吧。"
 
 # game/script.rpy:10975
 translate chinese choices14_common_9326c187:
 
     # mc "Whatever Kaoru wanted to tell me can't be that important right?"
-    mc ""
+    mc "薰能有什么重要的事啊？"
 
 # game/script.rpy:10979
 translate chinese choices14_common_02c08130:
 
     # male3 "And here we are."
-    male3 ""
+    male3 "终于到了……"
 
 # game/script.rpy:10980
 translate chinese choices14_common_a66e8c79:
 
     # male3 "The office."
-    male3 ""
+    male3 "办公室。"
 
 # game/script.rpy:10981
 translate chinese choices14_common_e2f8fc87:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:10982
 translate chinese choices14_common_82e9d3b7:
 
     # male3 "I think we should start working on the club applications next."
-    male3 ""
+    male3 "下面我们要审批社团申请了。"
 
 # game/script.rpy:10995
 translate chinese choices14_common_0dfdcea3:
 
     # male3 "What is wrong with these people?!?"
-    male3 ""
+    male3 "这些人脑子都有问题吗？！？"
 
 # game/script.rpy:10996
 translate chinese choices14_common_28b8ca2a:
 
     # male3 "Seriously?!?"
-    male3 ""
+    male3 "认真的吗？！？"
 
 # game/script.rpy:10997
 translate chinese choices14_common_bc394568:
 
     # male3 "The friendless anti-social club?!"
-    male3 ""
+    male3 "反社会阴暗爬行社？！"
 
 # game/script.rpy:10998
 translate chinese choices14_common_5111fdaa:
 
     # male3 "What kind of loser came up with this idea?!"
-    male3 ""
+    male3 "什么废物才会搞这种社团啊？！"
 
 # game/script.rpy:11000
 translate chinese choices14_common_a3b7f814:
 
     # male3 "I swear people just write these club applications just to annoy me!"
-    male3 ""
+    male3 "这些人就是想用社团申请气死我！"
 
 # game/script.rpy:11001
 translate chinese choices14_common_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11003
 translate chinese choices14_common_2d2588f0:
 
     # male3 "Whats wrong Harumiya?"
-    male3 ""
+    male3 "怎么了，春宫？"
 
 # game/script.rpy:11008
 translate chinese choices14_common_1034c40d:
 
     # mc "Hiro..."
-    mc ""
+    mc "弘……"
 
 # game/script.rpy:11009
 translate chinese choices14_common_c99f0451:
 
     # male3 "?"
-    male3 ""
+    male3 "？"
 
 # game/script.rpy:11010
 translate chinese choices14_common_becf45f4:
 
     # mc "I've been thinking about this for a while..."
-    mc ""
+    mc "我想了有一阵了……"
 
 # game/script.rpy:11011
 translate chinese choices14_common_fe545dce:
 
     # male3 "???"
-    male3 ""
+    male3 "？？？"
 
 # game/script.rpy:11012
 translate chinese choices14_common_5d2e7385:
 
     # male3 "What?"
-    male3 ""
+    male3 "什么？"
 
 # game/script.rpy:11013
 translate chinese choices14_common_69fc3819:
 
     # mc "Shouldn't we be on a first name basis?"
-    mc ""
+    mc "我们难道不应该互相叫名吗？"
 
 # game/script.rpy:11014
 translate chinese choices14_common_c591dce8:
 
     # male3 "What do you mean?"
-    male3 ""
+    male3 "什么意思？"
 
 # game/script.rpy:11015
 translate chinese choices14_common_f568d789:
 
     # mc "I mean, everybody calls you Hiro, I don't usually refer to you by your surname."
-    mc ""
+    mc "就是，大家都叫你弘，我一般也不会叫你的姓。"
 
 # game/script.rpy:11016
 translate chinese choices14_common_00c58ffc:
 
     # mc "So why not try calling me Haru for a change? We're friends aren't we?"
-    mc ""
+    mc "那你干嘛不改叫我春呢？我们是朋友吧？"
 
 # game/script.rpy:11018
 translate chinese choices14_common_3b5d1507:
 
     # male3 "W-WH-WHA-WHA-WHAAAAAT?!?"
-    male3 ""
+    male3 "什！么——！"
 
 # game/script.rpy:11019
 translate chinese choices14_common_1fd6d0db:
 
     # male3 "I CAN'T JUST CALL YOU BY YOUR FIRST NAME OUT OF THE BLUE LIKE THAT!!!"
-    male3 ""
+    male3 "我怎么能就这么唐突地叫你名啊！！！"
 
 # game/script.rpy:11021
 translate chinese choices14_common_aeb07f6e:
 
     # male3 "Calling a girl by her first name?! Who do you think I am?!? Kaoru?!"
-    male3 ""
+    male3 "你把我当什么人了啊？让我叫女生的名？我是薰吗？"
 
 # game/script.rpy:11022
 translate chinese choices14_common_16f9c4ca:
 
     # mc "Well, you call Naomi by her first name."
-    mc ""
+    mc "啊，你都这么叫直美了。"
 
 # game/script.rpy:11024
 translate chinese choices14_common_d9f112e4:
 
     # male3 "THATS DIFFERENT!!!"
-    male3 ""
+    male3 "那又不一样！"
 
 # game/script.rpy:11026
 translate chinese choices14_common_b187577c:
 
     # male3 "I can't just call you Haru out of the blue like that!"
-    male3 ""
+    male3 "让我叫你春也太唐突了！"
 
 # game/script.rpy:11027
 translate chinese choices14_common_2a06b5bb:
 
     # mc "... you kinda just did."
-    mc ""
+    mc "……你这不叫了吗。"
 
 # game/script.rpy:11029
 translate chinese choices14_common_9b76317d:
 
     # male3 "AAAHHHHH!!!!"
-    male3 ""
+    male3 "啊啊啊啊啊！！！"
 
 # game/script.rpy:11030
 translate chinese choices14_common_65e9963c:
 
     # male3 "T-TH-THAT DOESN'T COUNT!!!"
-    male3 ""
+    male3 "那不算！"
 
 # game/script.rpy:11031
 translate chinese choices14_common_fa176964:
 
     # "I chuckled to myself for a bit."
-    ""
+    "我偷偷笑了。"
 
 # game/script.rpy:11032
 translate chinese choices14_common_1573debd:
 
     # "Hiro gets so flustered over the smallest things."
-    ""
+    "弘真的好容易因为小事炸毛哦。"
 
 # game/script.rpy:11034
 translate chinese choices14_common_8b26e086:
 
     # male3 "Anyway, I think we should call it a day on the paperwork."
-    male3 ""
+    male3 "不说了，我们今天的工作就这样吧。"
 
 # game/script.rpy:11035
 translate chinese choices14_common_c7636586:
 
     # male3 "We can finish it up another time."
-    male3 ""
+    male3 "我们下次再把它做完。"
 
 # game/script.rpy:11036
 translate chinese choices14_common_d55695d0:
 
     # male3 "Its almost 5pm right?"
-    male3 ""
+    male3 "都快5点了吧？"
 
 # game/script.rpy:11037
 translate chinese choices14_common_d076b035:
 
     # male3 "Before the day is over I think we should go over some equations."
-    male3 ""
+    male3 "今天结束前我们来复习一下方程。"
 
 # game/script.rpy:11038
 translate chinese choices14_common_8be29388:
 
     # male3 "I can't have you flunking on me while you are helping me out, its going to reflect bad on me."
-    male3 ""
+    male3 "我没法坐视你因为帮我成绩越来越差，那会有损我的声誉。"
 
 # game/script.rpy:11039
 translate chinese choices14_common_9f01ad38:
 
     # male3 "As the student council president, I have the responsibility of looking after my fellow students."
-    male3 ""
+    male3 "身为学生会主席，我有责任帮助和督促同学学习。"
 
 # game/script.rpy:11040
 translate chinese choices14_common_7b548d64:
 
     # male3 "We've got 25 minutes."
-    male3 ""
+    male3 "我们还剩25分钟。"
 
 # game/script.rpy:11043
 translate chinese choices14_common_7e7b85fd:
 
     # centered "Type the letters that pop up on the screen before the timer runs out."
-    centered ""
+    centered "在计时结束前，打出屏幕上出现的字母（注意切换英文键盘！）。"
 
 # game/script.rpy:11045
 translate chinese choices14_common_0db92016:
 
     # centered "{color=#000}Alright, you've better have had studied this time!{/color}"
-    centered ""
+    centered "{color=#000}好嘞，这回总该学习了吧！{/color}"
 
 # game/script.rpy:11046
 translate chinese choices14_common_833682ea:
 
     # centered "{color=#000}Do you remember what the pythagorean theorem is?{/color}"
-    centered ""
+    centered "{color=#000}还记得勾股定理是什么吗？{/color}"
 
 # game/script.rpy:11066
 translate chinese choices14_common_cad35fa0:
 
     # mc "a^2 + b^2 = c^2!"
-    mc ""
+    mc "a^2 + b^2 = c^2!"
 
 # game/script.rpy:11069
 translate chinese choices14_common_e2f8fc87_1:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11071
 translate chinese choices14_common_819514be:
 
     # male3 "Wow, you actually remembered something for once."
-    male3 ""
+    male3 "总算有你会的了。"
 
 # game/script.rpy:11076
 translate chinese choices14_common_4dba3f0c:
 
     # mc "ax^2 + bx + c = 0!"
-    mc ""
+    mc "ax^2 + bx + c = 0!"
 
 # game/script.rpy:11080
 translate chinese choices14_common_f2844675:
 
     # male3 "WRONG!"
-    male3 ""
+    male3 "错！"
 
 # game/script.rpy:11081
 translate chinese choices14_common_7d7a2c19:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:11086
 translate chinese choices14_common_3100555d:
 
     # male3 "My god..."
-    male3 ""
+    male3 "天哪……"
 
 # game/script.rpy:11087
 translate chinese choices14_common_9684cf15:
 
     # male3 "You really are hopeless, aren't you?"
-    male3 ""
+    male3 "你真的没救了。"
 
 # game/script.rpy:11110
 translate chinese trivia_end3_e2f8fc87:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11111
 translate chinese trivia_end3_92b90f68:
 
     # male3 "Okay, I think we're done for today."
-    male3 ""
+    male3 "今天差不多就这样吧。"
 
 # game/script.rpy:11112
 translate chinese trivia_end3_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11113
 translate chinese trivia_end3_65c21590:
 
     # mc "Hiro?"
-    mc ""
+    mc "弘？"
 
 # game/script.rpy:11114
 translate chinese trivia_end3_96367fd5:
 
     # male3 "... yes?"
-    male3 ""
+    male3 "……怎么了？"
 
 # game/script.rpy:11115
 translate chinese trivia_end3_c7257070:
 
     # mc "I know I kinda already asked this but..."
-    mc ""
+    mc "我知道我问过你这个……"
 
 # game/script.rpy:11116
 translate chinese trivia_end3_9b9d0d1d:
 
     # mc "Why does Naomi hate you?"
-    mc ""
+    mc "但还是想知道，直美为什么这么讨厌你？"
 
 # game/script.rpy:11117
 translate chinese trivia_end3_e2f8fc87_1:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11118
 translate chinese trivia_end3_209f9e40:
 
     # mc "I know it's not really my place to say this but..."
-    mc ""
+    mc "是我多嘴了，但……"
 
 # game/script.rpy:11119
 translate chinese trivia_end3_db0edb21:
 
     # mc "What happened between you two?"
-    mc ""
+    mc "你们之间发生了什么吗？"
 
 # game/script.rpy:11120
 translate chinese trivia_end3_78c79485:
 
     # male3 "... That's a difficult question for me to answer."
-    male3 ""
+    male3 "……我很难回答。"
 
 # game/script.rpy:11121
 translate chinese trivia_end3_511dfe0a:
 
     # male3 "Let me think..."
-    male3 ""
+    male3 "让我想想……"
 
 # game/script.rpy:11122
 translate chinese trivia_end3_40733936:
 
     # mc "Do you like her?"
-    mc ""
+    mc "你喜欢她吗？"
 
 # game/script.rpy:11124
 translate chinese trivia_end3_aaea4bb9:
 
     # male3 "!!!"
-    male3 ""
+    male3 "！！！"
 
 # game/script.rpy:11125
 translate chinese trivia_end3_0e73b416:
 
     # male3 "D-d-did..."
-    male3 ""
+    male3 "喜欢、过……"
 
 # game/script.rpy:11126
 translate chinese trivia_end3_b6eff78c:
 
     # male3 "Did you really just ask that?!"
-    male3 ""
+    male3 "你刚刚真是这么问的吗？！"
 
 # game/script.rpy:11127
 translate chinese trivia_end3_f800bed0:
 
     # mc "Yes."
-    mc ""
+    mc "是的。"
 
 # game/script.rpy:11128
 translate chinese trivia_end3_403b4c51:
 
     # mc "Yes I did."
-    mc ""
+    mc "我是想问这个。"
 
 # game/script.rpy:11129
 translate chinese trivia_end3_e2f8fc87_2:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11131
 translate chinese trivia_end3_a5a35b8f:
 
     # male3 "(clears throat)"
-    male3 ""
+    male3 "（清了清嗓子）"
 
 # game/script.rpy:11132
 translate chinese trivia_end3_5e0c3a4a:
 
     # male3 "Yes."
-    male3 ""
+    male3 "喜欢吧。"
 
 # game/script.rpy:11133
 translate chinese trivia_end3_0d534b9c:
 
     # male3 "Yes I do... but..."
-    male3 ""
+    male3 "我很欣赏她……只是……"
 
 # game/script.rpy:11134
 translate chinese trivia_end3_392fe730:
 
     # mc "But what?"
-    mc ""
+    mc "只是什么？"
 
 # game/script.rpy:11135
 translate chinese trivia_end3_47c456ed:
 
     # male3 "Look."
-    male3 ""
+    male3 "害。"
 
 # game/script.rpy:11136
 translate chinese trivia_end3_2306e51b:
 
     # male3 "It happened a long time ago."
-    male3 ""
+    male3 "那都是很久前的事了。"
 
 # game/script.rpy:11139
 translate chinese trivia_end3_c34267e3:
 
     # centered "1 year ago."
-    centered ""
+    centered "一年前。"
 
 # game/script.rpy:11143
 translate chinese trivia_end3_ed9c67fa:
 
     # bff "(sigh)"
-    bff ""
+    bff "（叹气）"
 
 # game/script.rpy:11145
 translate chinese trivia_end3_7ecac2c5:
 
     # bff "So what is it that you needed to tell me Hasehaka kun?"
-    bff ""
+    bff "长谷孝君，请问你找我到底有什么事？"
 
 # game/script.rpy:11146
 translate chinese trivia_end3_1cd7a9ee:
 
     # bff "I mean, Hasehasa..."
-    bff ""
+    bff "不对，长谷……"
 
 # game/script.rpy:11147
 translate chinese trivia_end3_6411047b:
 
     # bff "Hasegawa kun."
-    bff ""
+    bff "长谷川君。"
 
 # game/script.rpy:11150
 translate chinese trivia_end3_5a98f9a0:
 
     # male3 "Hiro."
-    male3 ""
+    male3 "叫我弘吧。"
 
 # game/script.rpy:11151
 translate chinese trivia_end3_4cf98901:
 
     # male3 "Please call me Hiro."
-    male3 ""
+    male3 "请叫我弘就好了。"
 
 # game/script.rpy:11154
 translate chinese trivia_end3_cca39dbe:
 
     # bff "Oh right..."
-    bff ""
+    bff "那好吧……"
 
 # game/script.rpy:11155
 translate chinese trivia_end3_1c19ec0d:
 
     # bff "It was Hiro."
-    bff ""
+    bff "你叫弘。"
 
 # game/script.rpy:11158
 translate chinese trivia_end3_e2f8fc87_3:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11159
 translate chinese trivia_end3_ad9c0185:
 
     # male3 "Ok..."
-    male3 ""
+    male3 "那个……"
 
 # game/script.rpy:11160
 translate chinese trivia_end3_e872a797:
 
     # male3 "Give me a moment..."
-    male3 ""
+    male3 "等下……"
 
 # game/script.rpy:11161
 translate chinese trivia_end3_88e01876:
 
     # male3 ". . ."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11164
 translate chinese trivia_end3_6ded3eb9:
 
     # bff "... What is it Hiro?"
-    bff ""
+    bff "……怎么了，弘？"
 
 # game/script.rpy:11167
 translate chinese trivia_end3_e2f8fc87_4:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11170
 translate chinese trivia_end3_cb5a8164:
 
     # male3 "FINE!!"
-    male3 ""
+    male3 "就是！！"
 
 # game/script.rpy:11171
 translate chinese trivia_end3_30330ac8:
 
     # male3 "I LIKE YOU! OKAY?!"
-    male3 ""
+    male3 "我喜欢你！懂吗？！"
 
 # game/script.rpy:11178
 translate chinese trivia_end3_64af1d9e:
 
     # male3 "She slapped me in the face..."
-    male3 ""
+    male3 "她扇了我一耳光……"
 
 # game/script.rpy:11179
 translate chinese trivia_end3_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11180
 translate chinese trivia_end3_93e392b9:
 
     # mc "Pfffft."
-    mc ""
+    mc "噗。"
 
 # game/script.rpy:11182
 translate chinese trivia_end3_f207fce4:
 
     # male3 "HEY!"
-    male3 ""
+    male3 "喂！"
 
 # game/script.rpy:11183
 translate chinese trivia_end3_ff8caee0:
 
     # male3 "DON'T LAUGH!"
-    male3 ""
+    male3 "你笑什么笑！"
 
 # game/script.rpy:11184
 translate chinese trivia_end3_dc0ff26a:
 
     # mc "Sorry."
-    mc ""
+    mc "不好意思。"
 
 # game/script.rpy:11185
 translate chinese trivia_end3_03c87b5c:
 
     # mc "It's just really funny."
-    mc ""
+    mc "但真的太好笑了。"
 
 # game/script.rpy:11187
 translate chinese trivia_end3_db5a2388:
 
     # male3 "It's just..."
-    male3 ""
+    male3 "当时就是……"
 
 # game/script.rpy:11189
 translate chinese trivia_end3_374f9a40:
 
     # male3 "I thought that Naomi was the one for me."
-    male3 ""
+    male3 "我以为直美就是我的天生一对。"
 
 # game/script.rpy:11190
 translate chinese trivia_end3_8e755b49:
 
     # male3 "She's perfect."
-    male3 ""
+    male3 "她太完美了。"
 
 # game/script.rpy:11191
 translate chinese trivia_end3_ae7f3a85:
 
     # male3 "She cares about everyone, not just the people around her."
-    male3 ""
+    male3 "她对朋友很好，也对所有人都好，"
 
 # game/script.rpy:11192
 translate chinese trivia_end3_e9af0934:
 
     # mc "The {b}one{/b} for {b}you{/b}, huh?"
-    mc ""
+    mc "真是{b}天生一对啊{/b}，是吗？"
 
 # game/script.rpy:11193
 translate chinese trivia_end3_5a9cbd0d:
 
     # mc "I'm sorry, but that sounds cringe."
-    mc ""
+    mc "不好意思，但感觉好肉麻哦。"
 
 # game/script.rpy:11195
 translate chinese trivia_end3_f207fce4_1:
 
     # male3 "HEY!"
-    male3 ""
+    male3 "喂！"
 
 # game/script.rpy:11196
 translate chinese trivia_end3_e9efe09f:
 
     # mc "lol."
-    mc ""
+    mc "笑死。"
 
 # game/script.rpy:11197
 translate chinese trivia_end3_d25c1f4c:
 
     # mc "Just kidding."
-    mc ""
+    mc "我开玩笑啦。"
 
 # game/script.rpy:11198
 translate chinese trivia_end3_f64dfb98:
 
     # mc "I'm sure you'll be able to find someone that will cherish and appreciate you one day."
-    mc ""
+    mc "你总能找到真心欣赏和珍惜你的人的。"
 
 # game/script.rpy:11199
 translate chinese trivia_end3_c95cf058:
 
     # mc "You might come off as strict but you're actually very thoughtful."
-    mc ""
+    mc "你虽然表现的严厉，但实际上很体贴呀。"
 
 # game/script.rpy:11201
 translate chinese trivia_end3_e2f8fc87_5:
 
     # male3 "..."
-    male3 ""
+    male3 "……"
 
 # game/script.rpy:11203
 translate chinese trivia_end3_2541660b:
 
     # male3 "Thanks."
-    male3 ""
+    male3 "谢谢你。"
 
 # game/script.rpy:11204
 translate chinese trivia_end3_7d7a2c19:
 
     # centered "{nw}"
-    centered ""
+    centered "{nw}"
 
 # game/script.rpy:11223
 translate chinese trivia_end3_0db384c4:
 
     # centered "{size=50}You've earned a heart from Hiro!{/size}"
-    centered ""
+    centered "{size=50}你获得了弘的一颗心！{/size}"
 
 # game/script.rpy:11226
 translate chinese trivia_end3_400d35f6:
 
     # centered "After hearing Hiro open up, he seemed a lot more relaxed than usual."
-    centered ""
+    centered "弘在向我敞开心扉后似乎比原来自然多了。"
 
 # game/script.rpy:11227
 translate chinese trivia_end3_cb7a611e:
 
     # centered "Maybe Naomi was wrong about him after all."
-    centered ""
+    centered "直美可能真的误会他了。"
 
 # game/script.rpy:11234
 translate chinese trivia_end3_6e2188a1:
 
     # "It's time for lunch."
-    ""
+    "该吃午饭了。"
 
 # game/script.rpy:11235
 translate chinese trivia_end3_af255fc3:
 
     # "And Naomi is nowhere to be found still."
-    ""
+    "直美还是不见踪影。"
 
 # game/script.rpy:11236
 translate chinese trivia_end3_cdf7b350:
 
     # male4 "HARUHARU HARU!!!!!!"
-    male4 ""
+    male4 "春春春春！！"
 
 # game/script.rpy:11237
 translate chinese trivia_end3_4a5e5694:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:11241
 translate chinese trivia_end3_3bdc6859:
 
     # male4 "Hey there, Haru!"
-    male4 ""
+    male4 "嗨，千春！"
 
 # game/script.rpy:11242
 translate chinese trivia_end3_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11243
 translate chinese trivia_end3_6ad85a45:
 
     # mc "What is it this time Kaoru?"
-    mc ""
+    mc "薰，这回怎么了？"
 
 # game/script.rpy:11245
 translate chinese trivia_end3_6055ddac:
 
     # male4 "Oh, right."
-    male4 ""
+    male4 "呐。"
 
 # game/script.rpy:11246
 translate chinese trivia_end3_0f3c9639:
 
     # male4 "I had something I wanted to tell you the other day."
-    male4 ""
+    male4 "我有点东西想告诉你来着。"
 
 # game/script.rpy:11247
 translate chinese trivia_end3_e8d5fb85:
 
     # male3 "Stop right there!" with vpunch
-    male3 "" with vpunch
+    male3 "慢着！" with vpunch
 
 # game/script.rpy:11249
 translate chinese trivia_end3_c7e0db3f:
 
     # male4 "!!!"
-    male4 ""
+    male4 "！！！"
 
 # game/script.rpy:11252
 translate chinese trivia_end3_111ff2c7:
 
     # male3 "Kaoru! What do you think you're doing?!"
-    male3 ""
+    male3 "薰，你又想干什么好事？"
 
 # game/script.rpy:11254
 translate chinese trivia_end3_f63f6a53:
 
     # male3 "You're crazy if you think I'd let you run off with a girl by yourself!"
-    male3 ""
+    male3 "你以为能在我眼皮子底下这么拐走女生？！"
 
 # game/script.rpy:11256
 translate chinese trivia_end3_404219d0:
 
     # male3 "I-I-I mean!"
-    male3 ""
+    male3 "我、是、说！"
 
 # game/script.rpy:11258
 translate chinese trivia_end3_bfb0dbd4:
 
     # male3 "So what?"
-    male3 ""
+    male3 "你有话又怎样？"
 
 # game/script.rpy:11259
 translate chinese trivia_end3_5f552fee:
 
     # male3 "She has an obligation with me after school!"
-    male3 ""
+    male3 "她放学后有我的安排！"
 
 # game/script.rpy:11260
 translate chinese trivia_end3_ceac163c:
 
     # male3 "If she hangs out with you she's going to end up flunking the whole semester, all you do is mess around all day!"
-    male3 ""
+    male3 "她再跟你混下去这学期都完蛋了！"
 
 # game/script.rpy:11263
 translate chinese trivia_end3_dd2c4c4c:
 
     # male4 "Hiro, since when did you ever worry about others?"
-    male4 ""
+    male4 "弘哥啊，你什么时候这么会照顾人了哇？"
 
 # game/script.rpy:11265
 translate chinese trivia_end3_cea6264c:
 
     # male4 "I promise I'm not doing anything sketch, I just need to borrow her for a moment."
-    male4 ""
+    male4 "我只是光明磊落地暂且借用她一下。"
 
 # game/script.rpy:11268
 translate chinese trivia_end3_584213c7:
 
     # male3 "Borrow her?!"
-    male3 ""
+    male3 "借用？！"
 
 # game/script.rpy:11269
 translate chinese trivia_end3_89feee17:
 
     # male3 "She's not a toy you can play with!"
-    male3 ""
+    male3 "她是你的玩具吗？可以随便借？"
 
 # game/script.rpy:11270
 translate chinese trivia_end3_7791f6c2:
 
     # male3 "She's coming with me and that's settled!"
-    male3 ""
+    male3 "她跟我走，这事定了。"
 
 # game/script.rpy:11274
 translate chinese choices16_45f29292:
 
     # male4 "Y,know what, why not ask her then?"
-    male4 ""
+    male4 "定了吗？那你怎么不问她呀？"
 
 # game/script.rpy:11336
 translate chinese choices16_common4_38e9a69d:
 
     # centered "It's been a few weeks since Hiro disappeared."
-    centered ""
+    centered "自从弘失踪，已经几周过去了。"
 
 # game/script.rpy:11337
 translate chinese choices16_common4_2079d481:
 
     # centered "..."
-    centered ""
+    centered "……"
 
 # game/script.rpy:11338
 translate chinese choices16_common4_5cb8520f:
 
     # centered "There is only one week left before we can find a new member for the art club."
-    centered ""
+    centered "我们只剩一周的时间来为艺术社找个新成员。"
 
 # game/script.rpy:11339
 translate chinese choices16_common4_97424e0b:
 
     # centered "But I haven't seen Nao for weeks."
-    centered ""
+    centered "但我也有几周没看见直美了。"
 
 # game/script.rpy:11340
 translate chinese choices16_common4_ba639725:
 
     # centered "I got a note in my locker from Kaoru..."
-    centered ""
+    centered "鞋柜里有薰的纸条……"
 
 # game/script.rpy:11341
 translate chinese choices16_common4_6958c047:
 
     # centered "It looks like he wants to meet me under the school sakura tree."
-    centered ""
+    centered "他好像想在学校那棵樱花树下见我。"
 
 # game/script.rpy:11345
 translate chinese choices16_common4_1eaf2043:
 
     # centered "Hiro's route ???/???"
-    centered ""
+    centered "弘线结束：？？？/？？？"
 
 # game/script.rpy:11351
 translate chinese kaoru_route_ee0a5aed:
 
     # mc "Kaoru?"
-    mc ""
+    mc "薰？"
 
 # game/script.rpy:11352
 translate chinese kaoru_route_0e79c260:
 
     # mc "What did you call me out here for?"
-    mc ""
+    mc "你叫我到这有事吗？"
 
 # game/script.rpy:11355
 translate chinese kaoru_route_e5c66c97:
 
     # male4 "Haru.."
-    male4 ""
+    male4 "千春……"
 
 # game/script.rpy:11356
 translate chinese kaoru_route_68715550:
 
     # male4 "Do you like me?"
-    male4 ""
+    male4 "你喜欢我吗？"
 
 # game/script.rpy:11357
 translate chinese kaoru_route_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11358
 translate chinese kaoru_route_b3ae8984:
 
     # mc "Uhm..."
-    mc ""
+    mc "呃……"
 
 # game/script.rpy:11359
 translate chinese kaoru_route_29b458fc:
 
     # mc "I'm not really sure..."
-    mc ""
+    mc "我也不好说……"
 
 # game/script.rpy:11360
 translate chinese kaoru_route_7136c946:
 
     # mc "I mean..."
-    mc ""
+    mc "我是说……"
 
 # game/script.rpy:11361
 translate chinese kaoru_route_63cdbc38:
 
     # mc "(Oh my god...)"
-    mc ""
+    mc "（天哪……）"
 
 # game/script.rpy:11362
 translate chinese kaoru_route_63e7b19f:
 
     # mc "(What do I say? What do I say?!)"
-    mc ""
+    mc "（我这该怎么说啊？）"
 
 # game/script.rpy:11364
 translate chinese kaoru_route_2f6bd076:
 
     # mc "I mean... I guess"
-    mc ""
+    mc "emmmmm喜欢吧。"
 
 # game/script.rpy:11365
 translate chinese kaoru_route_78b65006:
 
     # mc "But do you think you can do me a small favor?"
-    mc ""
+    mc "那你能帮个小忙吗？"
 
 # game/script.rpy:11366
 translate chinese kaoru_route_83e2ab22:
 
     # male4 "?"
-    male4 ""
+    male4 "？"
 
 # game/script.rpy:11378
 translate chinese kaoru_route_37b17441:
 
     # male4 "What is this?"
-    male4 ""
+    male4 "什么事？"
 
 # game/script.rpy:11379
 translate chinese kaoru_route_3e6fb6e9:
 
     # mc "Oh this?"
-    mc ""
+    mc "哦你说这个？"
 
 # game/script.rpy:11380
 translate chinese kaoru_route_d639f839:
 
     # mc "Well, I was wondering..."
-    mc ""
+    mc "害，我是在想……"
 
 # game/script.rpy:11381
 translate chinese kaoru_route_e508aa5f:
 
     # mc "If maybe you could join the art club?"
-    mc ""
+    mc "或许你能加一下艺术社吗？"
 
 # game/script.rpy:11383
 translate chinese kaoru_route_d5a979da:
 
     # male4 "Oh, that was your favor?"
-    male4 ""
+    male4 "这就是你想我帮的忙吗？"
 
 # game/script.rpy:11384
 translate chinese kaoru_route_efe64fb0:
 
     # mc "...yea"
-    mc ""
+    mc "……嗯对。"
 
 # game/script.rpy:11385
 translate chinese kaoru_route_8a5f5db7:
 
     # mc "I mean you come here often."
-    mc ""
+    mc "我看你也经常来。"
 
 # game/script.rpy:11386
 translate chinese kaoru_route_2ac70990:
 
     # mc "You might as well join."
-    mc ""
+    mc "要不就加一下吧。"
 
 # game/script.rpy:11388
 translate chinese kaoru_route_510b098a:
 
     # male4 "Sorry, no can do."
-    male4 ""
+    male4 "抱歉哦，这可不成。"
 
 # game/script.rpy:11389
 translate chinese kaoru_route_74d7606b:
 
     # mc "Wait? What?"
-    mc ""
+    mc "啊？什么？"
 
 # game/script.rpy:11390
 translate chinese kaoru_route_b0a1059a:
 
     # mc "Why?!"
-    mc ""
+    mc "为什么不行啊？！"
 
 # game/script.rpy:11392
 translate chinese kaoru_route_c81a6d1e:
 
     # male4 "It conflicts with my schedule."
-    male4 ""
+    male4 "社团和我工作时间冲突了。"
 
 # game/script.rpy:11393
 translate chinese kaoru_route_f5818920:
 
     # male4 "I'm already wrapped up in my work."
-    male4 ""
+    male4 "我光是干活已经忙到飞起了。"
 
 # game/script.rpy:11394
 translate chinese kaoru_route_10c1dc39:
 
     # male4 "Being a part of the disciplinary committee isn't exactly a walk in the park, yknow?"
-    male4 ""
+    male4 "在纪检部做事也不是动动嘴皮子就行的。"
 
 # game/script.rpy:11395
 translate chinese kaoru_route_2b35b6fe_1:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11396
 translate chinese kaoru_route_bcd5f882:
 
     # mc "Can you please think about it for a second?"
-    mc ""
+    mc "那能请你稍微考虑一下吗？"
 
 # game/script.rpy:11397
 translate chinese kaoru_route_25d358bb:
 
     # mc "This club needs 4 members by the end of this week or else it will get disbanded."
-    mc ""
+    mc "我们要在这周内凑齐4个成员才能继续办下去。"
 
 # game/script.rpy:11398
 translate chinese kaoru_route_77885475:
 
     # mc "I promised Naomi that I would get more members..."
-    mc ""
+    mc "我答应过帮直美找人的……"
 
 # game/script.rpy:11399
 translate chinese kaoru_route_c9c1ebf0:
 
     # mc "It's not exactly easy doing it by myself..."
-    mc ""
+    mc "但我一个人实在不容易……"
 
 # game/script.rpy:11400
 translate chinese kaoru_route_33506c4b:
 
     # mc "She's been gone for a few weeks now and I just don't know what to do."
-    mc ""
+    mc "她已经几周不在了，我都不知道该怎么办。"
 
 # game/script.rpy:11401
 translate chinese kaoru_route_800103dd:
 
     # mc "Please?"
-    mc ""
+    mc "求你了……"
 
 # game/script.rpy:11402
 translate chinese kaoru_route_ef69417a:
 
     # mc "Its the one thing that I could do for her."
-    mc ""
+    mc "我只能为她做到这步了。"
 
 # game/script.rpy:11404
 translate chinese kaoru_route_2bc95b75:
 
     # male4 "(sigh)"
-    male4 ""
+    male4 "（叹气）"
 
 # game/script.rpy:11405
 translate chinese kaoru_route_cfc3bb56:
 
     # male4 "If its that important, I guess I could help out."
-    male4 ""
+    male4 "这么要紧的话，我还是帮你一把了。"
 
 # game/script.rpy:11407
 translate chinese kaoru_route_7cb5ff71:
 
     # male4 "But, don't expect too much from me, alright?!"
-    male4 ""
+    male4 "但也别指望我太多行吗？"
 
 # game/script.rpy:11408
 translate chinese kaoru_route_5621fe9d:
 
     # male4 "Now, is that all you needed?"
-    male4 ""
+    male4 "那你找我就是为了这个？"
 
 # game/script.rpy:11409
 translate chinese kaoru_route_f800bed0:
 
     # mc "Yes."
-    mc ""
+    mc "对。"
 
 # game/script.rpy:11411
 translate chinese kaoru_route_34132b12:
 
     # male4 "Alright then."
-    male4 ""
+    male4 "那没事了。"
 
 # game/script.rpy:11413
 translate chinese kaoru_route_031b3afd:
 
     # male4 "By the way..."
-    male4 ""
+    male4 "话说……"
 
 # game/script.rpy:11414
 translate chinese kaoru_route_444b1f77:
 
     # mc "?"
-    mc ""
+    mc "？"
 
 # game/script.rpy:11415
 translate chinese kaoru_route_71ee17f5:
 
     # male4 "Are you going to give me an answer any time soon?"
-    male4 ""
+    male4 "你准备好回答我了吗？"
 
 # game/script.rpy:11416
 translate chinese kaoru_route_2b35b6fe_2:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11417
 translate chinese kaoru_route_f62f72c7:
 
     # mc "I don't know how I feel about you yet, Kaoru..."
-    mc ""
+    mc "我也不知道我对你是什么感觉……"
 
 # game/script.rpy:11419
 translate chinese kaoru_route_99ec3f0d:
 
     # male4 "Oh really?"
-    male4 ""
+    male4 "哦？真的吗？"
 
 # game/script.rpy:11420
 translate chinese kaoru_route_57935623:
 
     # male4 "Fair enough, I guess."
-    male4 ""
+    male4 "那就是还不错喽。"
 
 # game/script.rpy:11421
 translate chinese kaoru_route_2b35b6fe_3:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11422
 translate chinese kaoru_route_7136c946_1:
 
     # mc "I mean..."
-    mc ""
+    mc "我是说……"
 
 # game/script.rpy:11423
 translate chinese kaoru_route_55467d5c:
 
     # mc "Its not that I don't like you, {size=12}I do... I just...{/size}"
-    mc ""
+    mc "不是说我不喜欢你啊， {size=12}我是喜欢的……就是说……{/size}"
 
 # game/script.rpy:11425
 translate chinese kaoru_route_12a2810c:
 
     # male4 "YOU DO?!"
-    male4 ""
+    male4 "你喜欢我呀？！"
 
 # game/script.rpy:11426
 translate chinese kaoru_route_5ea19b11:
 
     # mc "...nevermind, I didn't say anything!"
-    mc ""
+    mc "……别提了，当我没说！"
 
 # game/script.rpy:11428
 translate chinese kaoru_route_9be965bb:
 
     # male4 "Awe, Haru! Hasn't anyone told you how adorable you are?"
-    male4 ""
+    male4 "哇哦！千春呀，谁见了你都得被萌晕吧！"
 
 # game/script.rpy:11430
 translate chinese kaoru_route_c50cc210:
 
     # male4 "You know that you're terrible at lying but you try to hide how you feel anyways!"
-    male4 ""
+    male4 "你这嘴硬的骗不了一点人呀！"
 
 # game/script.rpy:11431
 translate chinese kaoru_route_e232d0b3:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:11432
 translate chinese kaoru_route_955f4df0:
 
     # "Its not like he's good at lying himself either..."
-    ""
+    "他还说我呢，他自己也不像很会骗人的样子……"
 
 # game/script.rpy:11433
 translate chinese kaoru_route_058af040:
 
     # imt "Hello?"
-    imt ""
+    imt "有人吗？"
 
 # game/script.rpy:11435
 translate chinese kaoru_route_4a5e5694:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:11437
 translate chinese kaoru_route_e232d0b3_1:
 
     # mc "!!!"
-    mc ""
+    mc "！！！"
 
 # game/script.rpy:11438
 translate chinese kaoru_route_adbfce54:
 
     # mc "Akari?!"
-    mc ""
+    mc "明莉？！"
 
 # game/script.rpy:11445
 translate chinese kaoru_route_80651b06:
 
     # imt "Hi."
-    imt ""
+    imt "嗨。"
 
 # game/script.rpy:11446
 translate chinese kaoru_route_86eedcaa:
 
     # mc "Akari, what are you doing here?"
-    mc ""
+    mc "明莉，你来这里干嘛？"
 
 # game/script.rpy:11447
 translate chinese kaoru_route_0772e59a:
 
     # mc "...and where's Nao?"
-    mc ""
+    mc "……直美呢？"
 
 # game/script.rpy:11449
 translate chinese kaoru_route_41df202b:
 
     # imt "..."
-    imt ""
+    imt "……"
 
 # game/script.rpy:11451
 translate chinese kaoru_route_bffee3f2:
 
     # imt "That's what I've been meaning to ask you..."
-    imt ""
+    imt "我是想来问你的……"
 
 # game/script.rpy:11452
 translate chinese kaoru_route_11455b53:
 
     # mc "What?"
-    mc ""
+    mc "啊？"
 
 # game/script.rpy:11453
 translate chinese kaoru_route_b6d9c085:
 
     # imt "Naomi hasn't come home in a few days."
-    imt ""
+    imt "直美好几天没回家了。"
 
 # game/script.rpy:11454
 translate chinese kaoru_route_50a1bee6:
 
     # imt "I'm not even sure where she is."
-    imt ""
+    imt "我都不知道她去哪了。"
 
 # game/script.rpy:11455
 translate chinese kaoru_route_1e5127db:
 
     # imt "I asked my mom and my step-dad about her too..."
-    imt ""
+    imt "我问了我妈和继父……"
 
 # game/script.rpy:11456
 translate chinese kaoru_route_d9eaedef:
 
     # imt "But for some reason they act like everything is fine and they keep avoiding my questions."
-    imt ""
+    imt "也不知为何，他们什么都不说，假装跟什么都没发生一样。"
 
 # game/script.rpy:11457
 translate chinese kaoru_route_b6daf046:
 
     # mc "Why would they do that?"
-    mc ""
+    mc "他们怎么这样？"
 
 # game/script.rpy:11459
 translate chinese kaoru_route_29eff6e7:
 
     # imt "I'm not sure..."
-    imt ""
+    imt "不知道啊……"
 
 # game/script.rpy:11460
 translate chinese kaoru_route_fd6ac0e6:
 
     # imt "To be honest, my mom and Naomi don't get along."
-    imt ""
+    imt "实话说我妈和直美关系不好。"
 
 # game/script.rpy:11462
 translate chinese kaoru_route_32b07777:
 
     # imt "It doesn't seem like they want to find her."
-    imt ""
+    imt "他们好像也不太着急找她。"
 
 # game/script.rpy:11463
 translate chinese kaoru_route_41df202b_1:
 
     # imt "..."
-    imt ""
+    imt "……"
 
 # game/script.rpy:11465
 translate chinese kaoru_route_8866697d:
 
     # imt "I don't know what to do."
-    imt ""
+    imt "都不知道该怎么办了……"
 
 # game/script.rpy:11466
 translate chinese kaoru_route_a1a760f9:
 
     # "Akari looked serious."
-    ""
+    "明莉不像在开玩笑。"
 
 # game/script.rpy:11467
 translate chinese kaoru_route_74fc4ce7:
 
     # "At the time I had so many questions on my mind."
-    ""
+    "一时间无数疑问涌上心头。"
 
 # game/script.rpy:11468
 translate chinese kaoru_route_89f2f68b:
 
     # "Did Naomi get into a fight or something with her family?"
-    ""
+    "直美和家里人闹矛盾了吗？"
 
 # game/script.rpy:11469
 translate chinese kaoru_route_a579947c:
 
     # "Is she okay?"
-    ""
+    "她人还好吗？"
 
 # game/script.rpy:11470
 translate chinese kaoru_route_f64c51a6:
 
     # "Where did she go?"
-    ""
+    "她去哪了？"
 
 # game/script.rpy:11471
 translate chinese kaoru_route_68533ffb:
 
     # "At that moment I just remember feeling like I wasn't sure what to do..."
-    ""
+    "一瞬间，我只能感受到自己有多么无助。"
 
 # game/script.rpy:11472
 translate chinese kaoru_route_a2360e90:
 
     # "But I could never forget the look on her face."
-    ""
+    "但明莉的神色令我终生难忘。"
 
 # game/script.rpy:11473
 translate chinese kaoru_route_84408f6c:
 
     # mc "Anyway... Akari, say hello to our new member today."
-    mc ""
+    mc "话说回来，明莉，来给咱们新成员打招呼呀。"
 
 # game/script.rpy:11475
 translate chinese kaoru_route_8fd07bb6:
 
     # imt "Kaoru?!"
-    imt ""
+    imt "薰？！"
 
 # game/script.rpy:11476
 translate chinese kaoru_route_ab3d321c:
 
     # imt "You're gonna join the art club too?"
-    imt ""
+    imt "你也加艺术社了？"
 
 # game/script.rpy:11479
 translate chinese kaoru_route_182a0a8f:
 
     # male4 "Akari!!!!!"
-    male4 ""
+    male4 "明莉呀！！"
 
 # game/script.rpy:11480
 translate chinese kaoru_route_1399c261:
 
     # male4 "Did ya bake any cookies today?"
-    male4 ""
+    male4 "今天烤饼干了吗？"
 
 # game/script.rpy:11483
 translate chinese kaoru_route_bdb9872c:
 
     # imt ". . ."
-    imt ""
+    imt "……"
 
 # game/script.rpy:11484
 translate chinese kaoru_route_ae31b8ad:
 
     # imt "No..."
-    imt ""
+    imt "没有……"
 
 # game/script.rpy:11487
 translate chinese kaoru_route_6f246cbb:
 
     # male4 "Next time bake cookies for me when you come!"
-    male4 ""
+    male4 "下次来记得给我带饼干哦！"
 
 # game/script.rpy:11489
 translate chinese kaoru_route_2747fb7c:
 
     # male4 "Y,know I love those! Your cookies are the best!"
-    male4 ""
+    male4 "我最喜欢吃你做的饼干了！"
 
 # game/script.rpy:11491
 translate chinese kaoru_route_717b2936:
 
     # male4 "{size=14}In exchange I'll tell you how to get to ikemen senpai's route.{/size}"
-    male4 ""
+    male4 "{size=14}你要是带饼干，我就告诉你怎么进英俊学长的线。{/size}"
 
 # game/script.rpy:11492
 translate chinese kaoru_route_652650d3:
 
     # mc "...?"
-    mc ""
+    mc "……？"
 
 # game/script.rpy:11494
 translate chinese kaoru_route_98990c0f:
 
     # male4 "Oh!"
-    male4 ""
+    male4 "啊这。"
 
 # game/script.rpy:11496
 translate chinese kaoru_route_f961e4e7:
 
     # male4 "Sorry, just ignore what I just said."
-    male4 ""
+    male4 "没没没，当我没说。"
 
 # game/script.rpy:11498
 translate chinese kaoru_route_9a163ef5:
 
     # male4 "Anyway, I'm here for the art competition."
-    male4 ""
+    male4 "我今天是来参加绘画比赛的。"
 
 # game/script.rpy:11501
 translate chinese kaoru_route_636bdb76:
 
     # imt "Wait... we're having another competition again?"
-    imt ""
+    imt "什么？又要搞绘画比赛了吗？"
 
 # game/script.rpy:11502
 translate chinese kaoru_route_2447c87a:
 
     # mc "Excuse me?"
-    mc ""
+    mc "你说什么？"
 
 # game/script.rpy:11503
 translate chinese kaoru_route_ba91a3e2:
 
     # mc "I'm sorry but I'm with Akari on this one."
-    mc ""
+    mc "不好意思啊，我是真没懂。"
 
 # game/script.rpy:11504
 translate chinese kaoru_route_c446fd5c:
 
     # mc "Who said we were having {b}ANOTHER{/b} art competition?"
-    mc ""
+    mc "谁说{b}又{/b}要搞比赛了？"
 
 # game/script.rpy:11507
 translate chinese kaoru_route_54df8d5b:
 
     # male4 "I did!"
-    male4 ""
+    male4 "我说的！"
 
 # game/script.rpy:11508
 translate chinese kaoru_route_836bd359:
 
     # male4 "Okay guys! Get your pencils, pens, and brushes ready! Today's topic is fan art!!!"
-    male4 ""
+    male4 "好嘞，咱们把彩笔和刷子都准备齐全了，今天画同人！"
 
 # game/script.rpy:11509
 translate chinese kaoru_route_2b35b6fe_4:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11511
 translate chinese kaoru_route_1409a079:
 
     # male4 "Lets begin!"
-    male4 ""
+    male4 "开始吧！"
 
 # game/script.rpy:11512
 translate chinese kaoru_route_5b038754:
 
     # mc "Wait Kaoru..."
-    mc ""
+    mc "等等啊薰……"
 
 # game/script.rpy:11513
 translate chinese kaoru_route_669f7578:
 
     # mc "Fan art of what exactly?"
-    mc ""
+    mc "你说谁的同人来着？"
 
 # game/script.rpy:11515
 translate chinese kaoru_route_30e56cec:
 
     # male4 "OTOME LEGENDS of course!"
-    male4 ""
+    male4 "当然是乙女传说啦！"
 
 # game/script.rpy:11517
 translate chinese kaoru_route_47175a8e:
 
     # male4 "No fan art is true fan art unless it is otome legends fan art."
-    male4 ""
+    male4 "搞同人不搞乙女传说，就像读四大名著不读红楼梦，读鲁迅不读周树人。"
 
 # game/script.rpy:11519
 translate chinese kaoru_route_46631d2e:
 
     # male4 "Cmon guys! Lets start!"
-    male4 ""
+    male4 "大家抓紧时间！"
 
 # game/script.rpy:11522
 translate chinese kaoru_route_7cc26cd4:
 
     # centered "After some time..."
-    centered ""
+    centered "一段时间之后……"
 
 # game/script.rpy:11526
 translate chinese kaoru_route_81580f5d:
 
     # male4 "Alright guys! Show me what you got!"
-    male4 ""
+    male4 "好啦，我看看大家都画了什么。"
 
 # game/script.rpy:11527
 translate chinese kaoru_route_698808ff:
 
     # male4 "Haru! Show me yours first!!!"
-    male4 ""
+    male4 "千春，先看看你的。"
 
 # game/script.rpy:11529
 translate chinese kaoru_route_4282719d:
@@ -31276,223 +31276,223 @@ translate chinese kaoru_route_4282719d:
 translate chinese kaoru_route_1a00e8dc:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11537
 translate chinese kaoru_route_2b35b6fe_5:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11538
 translate chinese kaoru_route_4b69ff17:
 
     # male4 ". . ."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11539
 translate chinese kaoru_route_9f68d17c:
 
     # male4 "Haru..."
-    male4 ""
+    male4 "千春……"
 
 # game/script.rpy:11541
 translate chinese kaoru_route_2d027d8a:
 
     # male4 "Why is your canvas completely blank still?"
-    male4 ""
+    male4 "你的画布怎么一片空白呀？"
 
 # game/script.rpy:11542
 translate chinese kaoru_route_2b35b6fe_6:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11543
 translate chinese kaoru_route_634b0272:
 
     # mc "Yea, I know..."
-    mc ""
+    mc "嗯……"
 
 # game/script.rpy:11544
 translate chinese kaoru_route_4078f2fc:
 
     # mc "Sorry, I couldn't think of anything to paint."
-    mc ""
+    mc "不好意思，想不出该画什么。"
 
 # game/script.rpy:11546
 translate chinese kaoru_route_a25680ab:
 
     # male4 "Oh, its ok. Don't worry about it too much."
-    male4 ""
+    male4 "哦，那没什么所谓的。"
 
 # game/script.rpy:11548
 translate chinese kaoru_route_198a9236:
 
     # male4 "Okay, now next is Akari."
-    male4 ""
+    male4 "那我看看明莉？"
 
 # game/script.rpy:11549
 translate chinese kaoru_route_18778070:
 
     # male4 "Akari, who did you draw?"
-    male4 ""
+    male4 "明莉，你画了什么呢？"
 
 # game/script.rpy:11556
 translate chinese kaoru_route_1a00e8dc_1:
 
     # male4 "..."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11557
 translate chinese kaoru_route_65dfbb71:
 
     # male4 "Akari..."
-    male4 ""
+    male4 "明莉……"
 
 # game/script.rpy:11559
 translate chinese kaoru_route_37b17441_1:
 
     # male4 "What is this?"
-    male4 ""
+    male4 "这是什么啊？"
 
 # game/script.rpy:11562
 translate chinese kaoru_route_25a6118e:
 
     # imt "My drawing."
-    imt ""
+    imt "我的画……"
 
 # game/script.rpy:11565
 translate chinese kaoru_route_5c2614fb:
 
     # male4 "Right..."
-    male4 ""
+    male4 "我知道是你的画……"
 
 # game/script.rpy:11566
 translate chinese kaoru_route_4b35a484:
 
     # mc "Kaoru."
-    mc ""
+    mc "薰。"
 
 # game/script.rpy:11568
 translate chinese kaoru_route_89893fa5:
 
     # male4 "Yes?"
-    male4 ""
+    male4 "怎么啦？"
 
 # game/script.rpy:11569
 translate chinese kaoru_route_81f6d65a:
 
     # mc "Why don't you show us your art?"
-    mc ""
+    mc "你怎么不让大家看看你画的呢？"
 
 # game/script.rpy:11571
 translate chinese kaoru_route_4b69ff17_1:
 
     # male4 ". . ."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11572
 translate chinese kaoru_route_56610af8:
 
     # male4 "Oh I didn't make anything."
-    male4 ""
+    male4 "啊，我啥都没画。"
 
 # game/script.rpy:11573
 translate chinese kaoru_route_5580ae2a:
 
     # mc "But you were painting on a canvas the entire time..."
-    mc ""
+    mc "你可一直在动笔呢……"
 
 # game/script.rpy:11575
 translate chinese kaoru_route_2eea616c:
 
     # male4 "Oh that?!"
-    male4 ""
+    male4 "这样啊？！"
 
 # game/script.rpy:11576
 translate chinese kaoru_route_4b69ff17_2:
 
     # male4 ". . ."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11578
 translate chinese kaoru_route_d006731b:
 
     # male4 "I was just practicing my... uhh. . ."
-    male4 ""
+    male4 "我其实是在练习……呃……"
 
 # game/script.rpy:11580
 translate chinese kaoru_route_8b82adfe:
 
     # male4 "POSTURE!"
-    male4 ""
+    male4 "握笔姿势！"
 
 # game/script.rpy:11581
 translate chinese kaoru_route_c9e68459:
 
     # male4 "It's nice to practice holding the brush!"
-    male4 ""
+    male4 "正确的握笔姿势也非常重要！"
 
 # game/script.rpy:11582
 translate chinese kaoru_route_77a89e99:
 
     # mc ". . ."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11583
 translate chinese kaoru_route_2877659a:
 
     # mc "But there was paint on the brus-{nw}"
-    mc ""
+    mc "锻炼握笔也需要涂颜——{nw}"
 
 # game/script.rpy:11584
 translate chinese kaoru_route_0bca7e22:
 
     # male4 "PAINT!?" with vpunch
-    male4 "" with vpunch
+    male4 "颜料？！" with vpunch
 
 # game/script.rpy:11585
 translate chinese kaoru_route_40ed45d1:
 
     # male4 "Oh?! That wasn't paint! I was just moving the brush so fast that you could see colors!"
-    male4 ""
+    male4 "啊我涂的不是颜料啦！是我手速太快产生了——红移！"
 
 # game/script.rpy:11587
 translate chinese kaoru_route_8f436b50:
 
     # male4 "It's an optical illusion!"
-    male4 ""
+    male4 "你看到的颜色只是光学现象。"
 
 # game/script.rpy:11590
 translate chinese kaoru_route_974d2d92:
 
     # imt "I love optical illusions."
-    imt ""
+    imt "我很喜欢光学现象。"
 
 # game/script.rpy:11593
 translate chinese kaoru_route_fbcb751c:
 
     # male4 ". . .yea, sure."
-    male4 ""
+    male4 "……嗯，那确实。"
 
 # game/script.rpy:11594
 translate chinese kaoru_route_042e80fb:
 
     # mc "It can't be that bad."
-    mc ""
+    mc "总不会难看到见不了人吧。"
 
 # game/script.rpy:11596
 translate chinese kaoru_route_239cff80:
 
     # male4 "No! Wait! Don't look!"
-    male4 ""
+    male4 "别啊！等下！别看！"
 
 # game/script.rpy:11601
 translate chinese kaoru_route_8623d177:
 
     # "Fanart by Nokodox!"
-    ""
+    "感谢Nokodox提供的同人画！"
 
 # game/script.rpy:11602
 translate chinese kaoru_route_8d6f64af:
@@ -31504,157 +31504,157 @@ translate chinese kaoru_route_8d6f64af:
 translate chinese kaoru_route_4b69ff17_3:
 
     # male4 ". . ."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11606
 translate chinese kaoru_route_77a89e99_1:
 
     # mc ". . ."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11607
 translate chinese kaoru_route_9df52b69:
 
     # male4 "You weren't supposed to see that."
-    male4 ""
+    male4 "本来不打算给你们看的。"
 
 # game/script.rpy:11610
 translate chinese kaoru_route_8004531c:
 
     # imt "Theres a 2nd one..."
-    imt ""
+    imt "还有一张呢。"
 
 # game/script.rpy:11611
 translate chinese kaoru_route_a0308f4f:
 
     # mc "A second one!?"
-    mc ""
+    mc "还有？！"
 
 # game/script.rpy:11612
 translate chinese kaoru_route_8c7662e7:
 
     # mc "When did he have the time to paint anoth-{nw}"
-    mc ""
+    mc "他还有空画第二——{nw}"
 
 # game/script.rpy:11615
 translate chinese kaoru_route_13e79729:
 
     # male4 "NO! STOP!!"
-    male4 ""
+    male4 "别啊！"
 
 # game/script.rpy:11616
 translate chinese kaoru_route_c05e787f:
 
     # male4 "ANYTHING BUT THAT!"
-    male4 ""
+    male4 "求求了！"
 
 # game/script.rpy:11623
 translate chinese kaoru_route_4b69ff17_4:
 
     # male4 ". . ."
-    male4 ""
+    male4 "……"
 
 # game/script.rpy:11624
 translate chinese kaoru_route_2b35b6fe_7:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11625
 translate chinese kaoru_route_03a1d681:
 
     # mc "Kaoru, what is thi-{nw}"
-    mc ""
+    mc "薰，这是——{nw}"
 
 # game/script.rpy:11628
 translate chinese kaoru_route_aeaaaa27:
 
     # imt "I know!"
-    imt ""
+    imt "我看出来了！"
 
 # game/script.rpy:11629
 translate chinese kaoru_route_888adb28:
 
     # imt "It's the Matsugelisa!"
-    imt ""
+    imt "是睫娜丽莎！"
 
 # game/script.rpy:11630
 translate chinese kaoru_route_2b35b6fe_8:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11631
 translate chinese kaoru_route_f31d6c9f:
 
     # "This is some new level of cringe I am observing."
-    ""
+    "我从未见过如此肉麻变态之人。"
 
 # game/script.rpy:11634
 translate chinese kaoru_route_2393ae01:
 
     # male4 "Anyway..."
-    male4 ""
+    male4 "别提了……"
 
 # game/script.rpy:11643
 translate chinese kaoru_route_0754b5a2:
 
     # "After hanging out in the artroom, it was time for us to head home."
-    ""
+    "艺术社的活动结束后，我准备回家。"
 
 # game/script.rpy:11644
 translate chinese kaoru_route_aae1538d:
 
     # "Akari had already went ahead of us and walked home by herself."
-    ""
+    "明莉已经一个人走在了我们前面。"
 
 # game/script.rpy:11645
 translate chinese kaoru_route_1448c044:
 
     # "All I remember is that it was a rainy afternoon."
-    ""
+    "我只记得那天下暴雨。"
 
 # game/script.rpy:11646
 translate chinese kaoru_route_2c050e69:
 
     # "I thought I was going home alone but then..."
-    ""
+    "我本打算一个人走回家，结果……"
 
 # game/script.rpy:11647
 translate chinese kaoru_route_4ac1da23:
 
     # mc "(I could've sworn that I brought my umbrella with me today.)"
-    mc ""
+    mc "（我用性命担保我今天带了伞的。）"
 
 # game/script.rpy:11648
 translate chinese kaoru_route_9263d608:
 
     # male4 "Haruharu Haruuuuu!!!!"
-    male4 ""
+    male4 "千春春千春！"
 
 # game/script.rpy:11649
 translate chinese kaoru_route_4a5e5694_1:
 
     # mc "???"
-    mc ""
+    mc "？？？"
 
 # game/script.rpy:11653
 translate chinese kaoru_route_40829b22:
 
     # male4 "So how are you doing?"
-    male4 ""
+    male4 "你这边怎么样呀？"
 
 # game/script.rpy:11654
 translate chinese kaoru_route_2b35b6fe_9:
 
     # mc "..."
-    mc ""
+    mc "……"
 
 # game/script.rpy:11656
 translate chinese kaoru_route_37fcaa85:
 
     # male4 "Y,know, I'm really sorry about what happened earlier."
-    male4 ""
+    male4 "那个，之前发生事，我真的很对不起你。"
 
 # game/script.rpy:11657
 translate chinese kaoru_route_331f225c:
@@ -41740,7 +41740,7 @@ translate chinese strings:
 
     # game/script.rpy:13
     old "Chiharu"
-    new "千春"
+    new "{b}千春{/b}"
 
     # game/script.rpy:16
     old "Naomi"
@@ -41764,7 +41764,7 @@ translate chinese strings:
 
     # game/script.rpy:26
     old "Kaoru"
-    new "薰"
+    new "{b}薰{/b}"
 
     # game/script.rpy:28
     old "Akari"
@@ -41924,55 +41924,55 @@ translate chinese strings:
 
     # game/script.rpy:9485
     old "Talk to Ikemen"
-    new "和帅哥学长聊天"
+    new "和英俊学长聊天"
 
     # game/script.rpy:10395
     old "Visit Hiro's office."
-    new ""
+    new "去弘的办公室。"
 
     # game/script.rpy:10395
     old "Visit Kaoru's office"
-    new ""
+    new "去薰的办公室。"
 
     # game/script.rpy:10429
     old "ask about Naomi"
-    new ""
+    new "问直美的事。"
 
     # game/script.rpy:10429
     old "ask about Hiro"
-    new ""
+    new "问弘的事。"
 
     # game/script.rpy:10429
     old "Nevermind"
-    new ""
+    new "没什么。"
 
     # game/script.rpy:10618
     old "No, I don't."
-    new ""
+    new "不明白。"
 
     # game/script.rpy:10618
     old "I don't mind."
-    new ""
+    new "无所谓。"
 
     # game/script.rpy:10618
     old "Really?"
-    new ""
+    new "真的吗？"
 
     # game/script.rpy:10967
     old "{s}Visit Kaoru's office.{/s}"
-    new ""
+    new "{s}去薰的办公室。{/s}"
 
     # game/script.rpy:11277
     old "Kaoru."
-    new ""
+    new "薰。"
 
     # game/script.rpy:11277
     old "Hiro."
-    new ""
+    new "弘。"
 
     # game/script.rpy:11313
     old "Ishida."
-    new ""
+    new "石田。"
 
     # game/script.rpy:12041
     old "It's nothing..."
