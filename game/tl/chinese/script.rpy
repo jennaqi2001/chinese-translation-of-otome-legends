@@ -1,9 +1,9 @@
 ﻿# TODO: Translation updated at 2023-12-30 11:34
 
 # game/script.rpy:735
-translate chinese bgm_155cd9b5:
+translate chinese bgm_1b4074a7:
 
-    # centered "{color=#000000}中文测试It was a long time ago when I played that game.{/color}"
+    # centered "{color=#000000}It was a long time ago when I played that game.{/color}"
     centered "{color=#000000}我玩那个游戏已经是很久以前了。{/color}"
 
 # game/script.rpy:736
@@ -42583,6 +42583,9 @@ translate chinese strings:
 
     old "{color=f44336}{size=30}Theres something else that you forgot a long time ago. . .\nbut you can't quite remember what it is.{/size}{/color}"
     new "{color=f44336}{size=30}你确认这是你多年前的记忆，\n只不过似乎早就淡忘了。{/size}{/color}"
+
+    old "{color=#000000}It was a long time ago when I played that game.{/color}"
+    new "我玩那个游戏已经是很久以前了。"
 
 
 
